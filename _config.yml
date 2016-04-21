@@ -7,9 +7,11 @@ permalink: none
 
 # Set encoding to UTF-8
 encoding: utf-8
+timezone: Europe/Madrid
 
 # Markdown specs
 markdown: kramdown
+highlighter: rouge
 
 collections:
   texts:
@@ -25,17 +27,17 @@ kramdown:
   enable_coderay: false
 
 # Setup
-title:               Ed.
-tagline:             'A Jekyll theme for minimal editions'
-description:         'Ed is a Jekyll theme designed for textual editors based on minimal computing principles, and focused on legibility and flexibility.'
-url:                 'http://elotroalex.github.io'
-baseurl:             '/ed'
+title:               Jolouster
+tagline:             'Come, bebe y ve el bien por todo tu duro trabajo'
+description:         'Hola, soy <b>Jonathan López</b> y esta es mi página personal. Aquí encontrarás mis apuntes de programación, informática e investigaciones. Devuelvo así el favor a todos aquellos que han compartido con todos su saber a través de Internet.'
+url:                 'http://jolouster.github.io'
+baseurl:             '/jolouster'
 
 # About/contact
 author:
-  name:              Alex Gil
-  url:               https://twitter.com/elotroalex
-  email:             colibri.alex@gmail.com
+  name:              Jonathan López
+  url:               https://twitter.com/jolouster
+  email:             jolouster@gmail.com
 
 # Custom vars
 version:             0.0.5
