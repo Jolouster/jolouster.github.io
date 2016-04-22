@@ -29,7 +29,7 @@ Me gustaría hacer muchas más cosas pero el tiempo es limitado. Además, si se 
 - **Para ayudar**. Devuelvo así el favor. A mi me han ayudado mucho los artículos, tutoriales, manuales y vídeos que la gente ha publicado en Internet. Me han ayudado a formarme y mejorar. Yo también quiero contribuir.
 - Para tener siempre a mano mis apuntes de programación.
 - Para hacer público algunas ideas y opiniones que considero interesantes. 
-- Para que crear mi marca personal (como programador principalmente).
+- Para crear mi marca personal (como programador principalmente).
 
 ### Por qué uso un sitio web estático
 
