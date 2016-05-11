@@ -4,8 +4,6 @@ title: Crear un repositorio GIT en Dropbox y compartirlo con otros.
 author: Jonathan López
 ---
 
-# CÓMO CREAR UN REPOSITORIO REMOTO GIT EN DROPBOX Y COMPARTIRLO CON OTRO
-
 Se supone que ya tenemos instalado Git y una cuenta creada en Dropbox.
 
 En la carpeta *local* donde tengamos nuestro proyecto, o dónde lo vayamos a colocar, creamos el repositorio local.

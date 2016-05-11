@@ -5,8 +5,6 @@ author: Jonathan López
 source: http://apuntes-snicoper.readthedocs.io/es/latest/editors/sublime_text/sublime_text_3.html
 ---
 
-# AÑADIR DICCIONARIOS DE IDIOMA A SUBLIME TEXT
-
 Solo hay que descargar los diccionarios de los idiomas que queramos y copiarlos en el directorio adecuado. Lo podemos hacer con los siguientes comandos:
 
 	cd ~/Downloads

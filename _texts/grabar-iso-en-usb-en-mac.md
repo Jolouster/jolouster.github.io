@@ -6,8 +6,6 @@ source: https://youtu.be/fu2g_E2ZK8A
 ---
 
 
-# CÓMO GRABAR UNA IMAGEN ISO EN UN USB DESDE LA TERMINAL EN MAC
-
 Hay que terner ya descargada la imagen ISO que queremos grabar.
 
 Recuerda cambiar 'nombreimagen.iso' por el nombre de tu archivo ISO que tengas en tu ordenador. También has de cambiar el nombre o ruta a la memoria USB a la que tengas tu. 
