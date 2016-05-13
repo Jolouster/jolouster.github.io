@@ -60,13 +60,13 @@ Este es mi caso concreto. No se si tu también estás o no en la misma situació
 
 Piensa que realmente dispones de menos de un tercio del año para ti. Cada minuto que perdemos, nunca más vuelve.
 
-Gastas casi el **26%** del año en el trabajo. ¿Lo disfruto o es una pesadilla? ¿Podría hacer algo para mejorarlo?
+Gasto casi el **26%** del año en el trabajo. ¿Lo disfruto o es una pesadilla? ¿Podría hacer algo para mejorarlo?
 
-En general, esto me hace pensar: *¿Realmente aprovechamos el tiempo que tenemos? ¿En qué lo invertimos? ¿En ver la televisión, videojuegos, internet? ¿Vale realmente la pena lo que hacemos? ¿Gastas ese tiempo "libre" que te queda con personas que te llenan y hacen feliz o con personas que te amargan y complican la vida?*
+En general, esto me hace pensar: *¿Realmente aprovechamos el tiempo que tenemos? ¿En qué lo invertimos? ¿En ver la televisión, videojuegos, internet? ¿Vale realmente la pena lo que hacemos? ¿Gastas ese tiempo "libre" que te queda con personas que te llenan y hacen feliz o con personas que te amargan y complican la vida? ¿Podría simplificar mi vida para conseguir más tiempo libre "**real**"*
 
 <p><br><br><br></p>
-
+---
 
 [^1]: Horario de Lunes a Jueves: 8:30 - 18:30 (con 1 hora y media para comer, no voy a casa) y Viernes: 8:30 - 14:00
 [^2]: Es una media "optimista". Unos 25 minutos ir y otros tantos volver. Incluyo el tiempo que tardo en buscar aparcamiento. 
-[^3]: En los días festivo o no laborales no contamos las horas que pasamos durmiendo. $H_{festivos} = \frac{(365 - 250)}{(24 - 8)} = 3.356,67 horas$
+[^3]: En los días festivo o no laborales no contamos las horas que pasamos durmiendo. $H_{festivos} = (365 - 250) · (24 - 8)} = 3.356,67 horas$
