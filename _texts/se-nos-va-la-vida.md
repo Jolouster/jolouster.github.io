@@ -69,4 +69,4 @@ En general, esto me hace pensar: *¿Realmente aprovechamos el tiempo que tenemos
 
 [^1]: Horario de Lunes a Jueves: 8:30 - 18:30 (con 1 hora y media para comer, no voy a casa) y Viernes: 8:30 - 14:00
 [^2]: Es una media "optimista". Unos 25 minutos ir y otros tantos volver. Incluyo el tiempo que tardo en buscar aparcamiento. 
-[^3]: En los días festivo o no laborales no contamos las horas que pasamos durmiendo. $H_{festivos} = (365 - 250) · (24 - 8)} = 3.356,67 horas$
+[^3]: En los días festivo o no laborales no contamos las horas que pasamos durmiendo. $$H_{festivos} = (365 - 250) · (24 - 8)} = 1840 horas$$
