@@ -62,7 +62,7 @@ Piensa que realmente dispones de menos de un tercio del año para ti. Cada minut
 
 Gasto casi el **26%** del año en el trabajo. ¿Lo disfruto o es una pesadilla? ¿Podría hacer algo para mejorarlo?
 
-En general, esto me hace pensar: *¿Realmente aprovechamos el tiempo que tenemos? ¿En qué lo invertimos? ¿En ver la televisión, videojuegos, internet? ¿Vale realmente la pena lo que hacemos? ¿Gastas ese tiempo "libre" que te queda con personas que te llenan y hacen feliz o con personas que te amargan y complican la vida? ¿Podría simplificar mi vida para conseguir más tiempo libre "**real**"*
+En general, esto me hace pensar: *¿Realmente aprovechamos el tiempo que tenemos? ¿En qué lo invertimos? ¿En ver la televisión, videojuegos, internet? ¿Vale realmente la pena lo que hacemos? ¿Gastas ese tiempo "libre" que te queda con personas que te llenan y hacen feliz o con personas que te amargan y complican la vida? ¿Podría simplificar mi vida para conseguir más tiempo libre "**real**"?*
 
 <p><br><br><br></p>
 ---
