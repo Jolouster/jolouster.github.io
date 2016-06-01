@@ -6,7 +6,7 @@ title: Qué estoy haciendo ahora
 Quiero mantenerme concentrado en mis objetivos y como lograrlo me cuesta la vida, me comprometo con vosotros y hago públicos mis objetivos:
 
 * Publicar al menos una vez por semana en este blog.
-* Convertir el método GTD en un hábito en mi vida.
+* Convertir el método [GTD](https://encrypted.google.com/search?hl=es&q=Getting+Things+Done) en un hábito en mi vida.
 * Implementar de forma habitual metodologías que mejoren mi código y ayuden a hacerlo mantenible.
 * Aprender más sobre el mundo del desarrollo de software. Soy de formación ingeniero técnico de telecomunicaciones, he de aprender y ponerme al nivel tan rápido como pueda.
 
