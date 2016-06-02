@@ -17,7 +17,7 @@ Es una buena práctica de programación tener una guía de estilo, pero sobre to
 
 Hay dos partes:
 
-1. Un archivo donde se explica las "reglas" seguidas al programador. Para entenderlo nada mejor que ver un ejemplo. [Mi guía de estilo en Github]().
+1. Un archivo donde se explica las "reglas" seguidas al programador. Para entenderlo nada mejor que ver un ejemplo. [Mi guía de estilo en Github](https://github.com/Jolouster/Guia-de-estilo.git).
 2. Configuración del entorno de desarrollo (IDE). Todo IDE que se precie tiene una sección de configuración donde se puede especificar el sangrado, el espaciado que habrá, la alineación de diferentes partes del código, etc.
 
 El problema aparece cuando cada programador tiene su propia guía de estilo y se siente cómodo y a gusto con ella. Heredamos código de otros, o lo descargamos de Github, y que necesitamos incluir en nuestro proyecto.
