@@ -122,7 +122,7 @@ Implica conocerse y analizarse honradamente. Dedicar tiempo a pensar y "hacer un
 
 *Qué distracciones tenemos y cómo las controlamos o gestionamos para que no nos afecten*.
 
-Las *distracciones son todo aquello que nos apartan o nos roban tiempo de perseguir nuestras metas*.
+Las distracciones son *todo aquello que nos apartan o nos roban tiempo de perseguir nuestras metas*.
 
 - ¿Cuales son nuestras circunstancias? Una persona soltera con trabajo y sin hijos puede ponerse metas que quizás un padre o madre de familia con pocos recursos no podría o le resultaría demasiado costoso.
 - ¿Cómo afectan esas circunstancias a nuestra meta? Quizás tienes un trabajo con jornadas larguísimas, o tienes que cuidar de un familiar enfermo.
@@ -231,5 +231,6 @@ A mi me falta mucho para considerarme "constante" y mantener la motivación a lo
 Una de las mayores satisfacciones es el ver el resultado de tu trabajo y saber que lo has conseguido. Cuando se consiga avanzar, progresar en los objetivos o alcanzar las metas, *"come, bebe y ve el bien por todo tu duro trabajo"*.
 
 
+---
 [^1]: Según la 'RAE' es *"la virtud que consiste en el conocimiento de las propias limitaciones y debilidades y en obrar de acuerdo con este conocimiento"*.
 [^2]: Hay un montón de métodos y mucha información sobre el tema. El método que yo intento aplicar es el conocido como *"Getting Things Done"* (GTD) de David Allen.
