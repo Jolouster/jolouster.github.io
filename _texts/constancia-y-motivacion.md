@@ -30,7 +30,7 @@ Entonces la clave está en cómo conseguir ***ser constante*** y no perder la **
 Estas son algunas que me complican a mí personalmente ser constante o el mantenerme motivado. Algunas ya las he corregido, en otras estoy trabajando y otras aun están en el tintero. Quizás para otras personas sean otras cosas. Esta es mi lista.
 
 - Es difícil porque requiere trabajo y es más cómodo estar echado en el sofá o en la cama.
-- Es difícil porque lo más cómodo no suele ser lo que más nos conviene: necesito la autodisciplina.
+- Es difícil porque lo más cómodo no suele ser lo que más nos conviene: se necesita la autodisciplina.
 - Es difícil porque nos olvidamos de la importancia (valor) que tiene la meta o el objetivo para nosotros.
 - Es difícil porque nos distraemos con otros temas.
 - Es difícil porque intentamos alcanzar muchas metas a la vez y nos agotamos física, emocional y mentalmente.
@@ -41,8 +41,8 @@ Estas son algunas que me complican a mí personalmente ser constante o el manten
 - Es difícil porque queremos las cosas ya, no somos pacientes y creemos que nos tienen que dar las cosas hechas.
 - Es difícil porque nos complicamos la vida nosotros mismos queriendo hacerlo todo perfecto.
 - Es difícil porque nos complicamos la vida nosotros mismos al no simplificar nuestro estilo de vida.
-- Es difícil porque nos equivocamos y a veces toca volver a hacer el trabajo hecho.
-- Es difícil porque no hemos sido concretos y claros en nuestros objetivos y no podemos medir el progreso ni saber cuánto nos queda para alcanzar la meta.
+- Es difícil porque nos equivocamos y a veces toca volver a hacer parte del trabajo hecho.
+- Es difícil porque no hemos sido concretos y claros en los objetivos y no podemos medir el progreso ni saber cuánto queda para alcanzar la meta.
 - Es difícil porque estamos re-inventando la rueda y no hemos investigado lo suficiente para aprovechar el trabajo que ya han hecho otros.
 - Es difícil porque el sistema comercial nos bombardea con la idea de buscar la satisfacción inmediata. Y la vida real no es así, las metas y objetivos *valiosos* necesitan mucho trabajo y tiempo.
 - Es difícil porque es más fácil y cómodo ser mediocre y conformarse con lo que nos vende la televisión.
@@ -56,8 +56,13 @@ No conformarse ni darse por vencido. Pensar y buscar un remedio a cada cosa que 
 He empezado investigando qué es la *constancia*, la *motivación* y lo que implican. 
 
 **¿Qué es la constancia?**
-Según la RAE: *"Firmeza y perseverancia del ánimo en las resoluciones y en los propósitos."*
-En otras palabras, constancia es *el hábito* de mantener un esfuerzo que se prolonga en el tiempo. Se necesita *"Perseverar"*, o lo que es lo mismo, mantenerse en la persecución de una meta pese a las dificultades o complicaciones que puedan haber por el camino.
+
+Según la RAE: 
+
+Constancia
+: *"Firmeza y perseverancia del ánimo en las resoluciones y en los propósitos."*
+
+En otras palabras, constancia es *el hábito* de mantener un esfuerzo que se prolonga en el tiempo. Se necesita *"perseverar"*, o lo que es lo mismo, mantenerse en la persecución de una meta pese a las dificultades o complicaciones que puedan haber por el camino.
 
 **¿Qué implica la constancia?**
 
@@ -66,10 +71,11 @@ En otras palabras, constancia es *el hábito* de mantener un esfuerzo que se pro
 
 Analogías para entenderlo mejor:
 
-- El *esfuerzo continuado* seria el *"fondo"* que tiene un corredor para correr muchos kilómetros.
+- El *esfuerzo continuado* seria el *"fondo" o aguante* que tiene un corredor para correr muchos kilómetros.
 - La *autodisciplina* sería la *"fuerza"* que tiene un levantador de peso. La forma de desarrollarla es análogo al levantamiento de peso. Empiezas por poco y de forma progresiva vas aumentado la dificultad (peso). Uno empieza por retos pequeños pero que te fuerza un poco la autodisciplina que tienes actualmente. Cuando ya lo llevas cómodamente, subes de nivel, otro reto o proyecto que te exija un poco más de autodisciplina.
 
 **¿Qué es la motivación?**
+
 "Motivación" viene del latín y viene a significar *'causa de movimiento'*. Son el conjunto de factores, internos o externos, que determinan en parte las acciones de una persona. Vine a ser la 'razón' o motivos por las que hacemos algo.
 
 Al principio de cualquier proyecto, suele ser fuerte y nos da el empujón necesario para empezar a actuar. Es todo aquello que nos produce las "ganas" de obtener y conseguir una determinada meta.
@@ -96,17 +102,19 @@ Analizamos los diferentes factores que implica la motivación. Alcanzando y mant
 
 *La confianza que tengamos en nosotros mismos de conseguir con éxito un objetivo*.
 
-- Para ello hay que marcarse objetivos realistas. Acordes a nuestras habilidades actuales. Que requieran esfuerzo pero que estén dentro de nuestros límites (hay que ser modestos, conocer tus propios límites).
+- Para ello hay que marcarse objetivos realistas. Acordes a nuestras habilidades actuales. Hay que ser humilde[^1] y realista con ganas de superación.
 - Plantearse los objetivos concretos, de forma que podamos medirlos y ver si los estamos o no alcanzando.
 - Tener claro desde el principio que vamos a fallar y que necesitaremos varios intentos para conseguirlos. Ser flexibles y aprender de los errores para corregir o adaptar la forma de llegar al objetivo marcado.
 - Planificar los pasos que necesitaremos para lograr la meta. Dividir para vencer.
-- No ser proteccionista. Hacerlo bien, no perfecto.
+- No ser perfeccionista. Hacerlo bien, no perfecto.
 
 Cuando se desgranan tanto y se ve claramente lo que va a costar alcanzar un objetivo o meta, se puede juzgar mejor si seremos capaces o no de lograrlo. Hay que ser conscientes de nuestras limitaciones pero también ser un poco exigentes con nosotros mismos y aspirar a un poco más. Nos ayudará a crecer y mejorar. Todo lo que vale la pena, cuesta.
 
 *Cuánto valoramos la meta o el resultado que nos hemos propuesto*.
 
-Es muy subjetivo. Hay que visualizar el resultado, imaginarse que lo alcanzamos y cómo nos hace sentir. Pensar si realmente nos vale la pena. Ver si ese objetivo o meta está acorde con nuestros valores, preferencias y cualidades. Ver si ese resultado esperado tiene un valor igual o superior al coste en tiempo y esfuerzo necesario.
+Es una valoración muy subjetiva y depende de cada uno. 
+
+Hay que visualizar el resultado, imaginarse que lo alcanzamos y cómo nos hace sentir. Pensar si realmente nos vale la pena. Ver si ese objetivo o meta está acorde con nuestros valores, preferencias y cualidades. Decidir si ese resultado esperado tiene un valor igual o superior al coste en tiempo y esfuerzo necesario.
 
 Nadie, excepto nosotros mismos, debería imponernos sus metas por esta razón. No estamos obligados a iniciar o continuar con metas que no tengan ningún valor para nosotros.
 
@@ -132,7 +140,7 @@ No desistir. Muy muy muy pocas veces sale todo bien a la primera. Es normal y le
 
 Cuantos más fallos se cometen al tratar de hacer algo, más se aprende sobre ello. Siempre hay que tratar de aprender de cada fallo e ir cambiando y ajustando nuestra forma de actuar para mejorar. No se puede esperar que el resultado cambie si siempre hacemos lo mismo.
 
-Cuando se trate de adquirir o cambiar un hábito, es normal que se falle y tardemos cierto tiempo en adaptarnos al cambio. No frustrarse ni darse por vencido a primeras de cambio. Quien la sigue y la persigue la consigue. 
+Cuando se trate de adquirir o cambiar un hábito, es normal que se falle y tardemos cierto tiempo en adaptarnos al cambio. Quien la sigue y la persigue la consigue. 
 
 Implica ser persistente. Continuar y "obligarse" a volverlo a intentar cuando solo nos apetezca rendirnos y tirar la toalla (otra vez autodisciplina).
 
@@ -140,13 +148,13 @@ Implica ser persistente. Continuar y "obligarse" a volverlo a intentar cuando so
 
 Aquí es donde entran los sistemas de organización personal y de planificación. Cuando se tiene claro los pasos que hay que dar y nos hemos preparado, tenemos mayor confianza de que podremos lograrlo.
 
-El tiempo es limitado, como se ha comentado antes. **Es necesario saber distribuirlo bien** para poder atender todas nuestras responsabilidades, tener tiempo para perseguir y alcanzar nuestras metas y no dejar que las "distracciones" nos *roben* el tiempo.
+El tiempo es limitado. **Es necesario saber distribuirlo bien** para poder atender todas nuestras responsabilidades, tener tiempo para perseguir y alcanzar nuestras metas y no dejar que las "distracciones" nos *roben* el tiempo.
 
-La organización personal es en sí misma una habilidad que hay que cultivar y aprender. Tardaremos cierto tiempo en adquirirla. Pero nos ayuda a adquirir autodisciplina y buenos hábitos para conseguir cualquier otra meta que nos planteemos después.
+La organización personal[^2] es en sí un hábito que hay que cultivar y aprender. Tardaremos cierto tiempo en adquirirla. Pero nos ayuda a adquirir autodisciplina y otros buenos hábitos para conseguir cualquier otra meta que nos planteemos después.
 
 *Hacerlo bien, no perfecto*.
 
-Lo importante es llegar a la meta. ¿Es ***realmente necesario*** hacerlo perfecto? Seguramente no, y lo más probable es que *nunca* se consiga. Somos imperfectos y siempre se podrá mejorar lo que hagas. ¿Para qué preocuparse tanto? Lo más probable es que a nadie, salvo a ti, le importe lo bien que esté hecho. Siempre habrá alguien que le vea pegas o lo haya hecho diferente o incluso mejor. No importa tanto como nos imaginamos que esté o no perfecto.
+Lo importante es llegar a la meta. ¿Es ***realmente necesario*** hacerlo perfecto? Seguramente no, hay que ser prácticos y lo más probable es que *nunca* se consiga. Somos imperfectos y siempre se podrá mejorar lo que hagas. ¿Para qué preocuparse tanto? Lo más probable es que a nadie, salvo a ti, le importe lo bien que esté hecho. Siempre habrá alguien que le vea pegas o lo haya hecho diferente o incluso mejor.
 
 Más vale conseguirlo, que no lograrlo por haber querido hacerlo perfecto.
 
@@ -154,21 +162,23 @@ Esto es una actitud o forma de pensar y ver las cosas. Si tendemos a ser perfecc
 
 *La información que nos bombardea*.
 
+La información que recibimos puede ser una distracción o una fuente de motivación.
+
 La dieta de la información que tengamos influye muchísimo en nuestra motivación. Si conseguimos que la mayoría la información que nos llega tenga una temática acorde con nuestra meta y objetivo estaremos muchísimo más concentrados y enfocados.
 
-El ser humano está totalmente influido en su forma de pensar por la información que le llega. Uno no desea algo que no sabe ni que existe. De ahí que el marketing y la publicidad, tanto comercial como política o de cualquier otro tipo, tengan tanto éxito.
+El ser humano está totalmente influido en su forma de pensar por la información que le llega. Uno no desea algo que no sabe ni que existe. La opinión sobre cierto tema puede variar según la información que recibamos. De ahí que el marketing y la publicidad, tanto comercial como política, tengan tanto éxito.
 
-También influye en nuestro estado de ánimo. Si estamos rodeados de gente mediocre, pesimista o que simplemente se quieren aprovechar de nosotros nos dirán cosas y transmitirán ideas que nos desmotivaran. Con suerte, solo cambiarán nuestra meta a la que a ellos les interese. 
+También influye en nuestro estado de ánimo. Si estamos rodeados de gente mediocre, pesimista o que simplemente se quieren aprovechar de nosotros, nos dirán cosas y transmitirán ideas que nos desmotivaran.
 
 En cambio si empezamos a conocer casos de éxito o experiencias de otras personas que han logrado alcanzar nuestras metas (o parecidas) nos sentiremos más animados y capaces de lograrlo. Si nos rodeamos de gente que nos apoya o tienen la misma meta, nos motivaremos mutuamente. Nuestra determinación para alcanzarla puede crecer mucho más que si estamos solos.
 
-Esta información proviene de amigos, familiares, compañeros de trabajo, foros de internet, asociaciones, clubs sociales, chats, blogs, películas, libros, revistas, vídeos, fotografías, redes sociales, etc.
+Esta información proviene de amigos, familiares, compañeros de trabajo, foros de internet, asociaciones, clubs sociales, chats, blogs, películas, libros, revistas, vídeos, fotografías, redes sociales, música, nuestros propios sentidos, etc.
 
 ### ¿Cómo usar la constancia y la motivación para conseguir nuestras metas?
 
 Cuando uno se plantea marcarse una meta, primero hay que ver si realmente tiene valor para nosotros y simplemente es un capricho momentáneo.
 
-Si realmente tiene valor y creemos que vale la pena, toca ver cuánto esfuerzo va a necesitar.  Toca planificar un poco. Dividir el proyecto en tareas más pequeñas, concretas y concisas. Medibles. Calcular cuanto tiempo va a requerir. Ver qué cambios en nuestra vida van a ser necesarios. *Cuando tengamos todo esto más o menos claro, volver a pensar si **realmente** vale la pena la meta*.
+Si realmente tiene valor y creemos que vale la pena, toca ver cuánto esfuerzo va a necesitar. Toca planificar un poco. Dividir el proyecto en tareas más pequeñas, concretas y concisas. Medibles. Calcular aproximadamente cuanto tiempo va a requerir. Ver qué cambios en nuestra vida van a ser necesarios. Cuando tengamos todo esto más o menos claro, *volver a pensar si **realmente** vale la pena la meta*.
 
 Más vale rechazar una meta u objetivo ***antes*** de iniciarlo que sentir la frustración y el fracaso por no ***poder*** alcanzarla y dejarla a medio hacer. 
 
@@ -176,17 +186,15 @@ Creo que es clave para mantener la motivación a lo largo del tiempo. (Algo en l
 
 Siguiente paso, si decidimos ir a por ella. Hacerlo. No esperar a mañana. Marcarse plazos *realistas* en el calendario. Aunque estos sean flexibles, tratar de ajustarse al máximo a ellos. Hacer una lista con las tareas o cambios con los que vas a empezar *ya*.
 
-Los plazos nos permiten controlar y medir el progreso que vamos teniendo. Eso puede ayudarnos a motivarnos, el ver con entusiasmo como vamos llegando poco a poco a la meta. Lo bueno es que estos plazos nos los marcamos nosotros y podemos ir ajustandolos según las circunstancias y necesidades.
+Los plazos nos permiten controlar y medir el progreso que vamos teniendo. Eso puede ayudarnos a motivarnos, el ver con entusiasmo como vamos llegando poco a poco a la meta. Lo bueno es que estos plazos nos los marcamos nosotros y podemos ir ajustándolos según las circunstancias y necesidades.
 
-Contar a familiares y amigos que vamos tras esa meta. Eso te obligará o comprometerá "emocionalmente" a cumplir. Apártate de todos aquellos que sean negativos, no te apoyen o te digan que no lo conseguirás. Rodéate de gente que tenga las mismas metas u objetivos que tu o los más parecidos posibles.
-
-Una motivación más para seguir adelante y no abandonar.
+Contar a familiares y amigos que vamos tras esa meta. Eso te obligará o comprometerá "emocionalmente" a cumplir. Apártate de todos aquellos que sean negativos, no te apoyen o te digan que no lo conseguirás. Rodéate de gente que tenga las mismas metas u objetivos que tu o los más parecidos posibles. Es una motivación más para seguir adelante y no abandonar.
 
 Vigila tu "dieta de información". Sobre todo cuando navegas por Internet. Podrías preguntarte:
 
 - ¿De verdad necesitas toda esa información?
 - ¿Filtras con criterio selectivo lo que lees y lo que asimilas?
-- ¿Contribuye *cada una* de esas actividades a sacar lo mejor de ti?
+- ¿Contribuye *cada una* de esas actividades a sacar lo mejor de ti? ¿y a perseguir mis metas?
 - ¿Qué persigues *realmente* cuando entras en esas webs?
 - ¿Entras “porque sí” o de *verdad* te están aportando algo?
 - ¿Realmente esa web merece que le dediques diez minutos de tu día?
@@ -200,7 +208,7 @@ Por último, ser constante. La parte más difícil, aunque no imposible. Hay gen
 - Cuando no nos apetezca hacer algo, no pensarlo, empezar y punto. Ser firmes con nosotros mismos.
 - Buscar trucos que nos ayuden a hacer lo que no nos gusta. Ponerse música, darse un capricho al terminarla, hacer esas tareas en el momento del día que más energía tengamos, etc.
 - Apuntarse en un papel y repasar a menudo el *por qué queremos alcanzar la meta*.
-- Tener claras las tareas clave que realmente nos hacen avanzar hacia nuestro objetivo. Estas son las *"importantes"*.
+- Tener claras las tareas clave que realmente nos hacen avanzar hacia nuestro objetivo. Estas son las "importantes".
 - Tener claro que las tareas *"urgentes"* no suelen ser las más *"importantes"* y no deben eclipsar a estas.
 - Quitar distracciones. Apagar teléfono, quitar notificaciones de redes sociales, email, etc.
 - Repasar qué hemos logrado y todo lo que nos ha costado llegar hasta ahí. Ver todo lo que hemos aprendido en el proceso.
@@ -208,7 +216,7 @@ Por último, ser constante. La parte más difícil, aunque no imposible. Hay gen
 
 Estos son truquillos que me han ayudado a *mi*. Mientras lo he hecho, me he sentido mucho más productivo y eficiente. No solo con mis metas, también en el trabajo y quehaceres del día a día.
 
-Los libros de autoayuda, revistas, webs o blogs y supuestos expertos o gurús pueden proponerte mil formas diferentes de organizarte. Lo complicado está en no desistir y, aunque nos cansemos, no tirar la toalla ni dejar de hacer lo que nos propusimos en su día. Cada uno ha de pensar formas y ver qué se ajusta más y qué le ayuda a él para llegar a ser constante. 
+Los libros de autoayuda, revistas, webs o blogs y supuestos expertos o gurús pueden proponerte mil formas diferentes de organizarte o trabajar. Lo complicado está en no desistir y, aunque nos cansemos, no tirar la toalla ni dejar de hacer lo que nos propusimos en su día. Cada uno ha de pensar formas y ver qué se ajusta más y qué le ayuda a él para llegar a ser constante. 
 
 Para mantener la motivación, cada poco tiempo, ver cuanto hemos avanzado hacia nuestro objetivo. Qué nos queda por hacer. Planificar nuestros siguientes pasos. Ver qué se ha aprendido en el proceso. Realizar los ajustes que creamos necesarios, tanto en la meta final como en el método que estamos siguiendo. **Importante: hacerlo con actitud positiva.** Trata de sacar siempre alguna cosa buena, no solo lo malo.
 
@@ -221,3 +229,7 @@ Lo ideal, empezar con metas sencillas y asequibles. Después no parar y tratar d
 A mi me falta mucho para considerarme "constante" y mantener la motivación a lo largo del tiempo. Pero quiero serlo y voy a trabajar diariamente en ello. 
 
 Una de las mayores satisfacciones es el ver el resultado de tu trabajo y saber que lo has conseguido. Cuando se consiga avanzar, progresar en los objetivos o alcanzar las metas, *"come, bebe y ve el bien por todo tu duro trabajo"*.
+
+
+[^1]: Según la 'RAE' es *"la virtud que consiste en el conocimiento de las propias limitaciones y debilidades y en obrar de acuerdo con este conocimiento"*.
+[^2]: Hay un montón de métodos y mucha información sobre el tema. El método que yo intento aplicar es el conocido como *"Getting Things Done"* (GTD) de David Allen.
