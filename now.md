@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Qué estoy haciendo ahora
+author: Jonathan López
 ---
 
 Quiero mantenerme concentrado en mis objetivos y como lograrlo me cuesta la vida, me comprometo con vosotros y hago públicos mis objetivos:
