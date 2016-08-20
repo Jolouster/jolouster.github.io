@@ -4,7 +4,7 @@ title: Aplicar la guía de estilo en C++
 author: Jonathan López
 ---
 
-Es una buena práctica de programación tener una guía de estilo, pero sobre todo, ***aplicarla**. 
+Es una buena práctica de programación tener una guía de estilo, pero sobre todo, ***aplicarla***. 
 
 ### ¿Por qué es importante la guía de estilo?
 
