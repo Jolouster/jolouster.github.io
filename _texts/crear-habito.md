@@ -28,5 +28,5 @@ Para crear un nuevo hábito:
 
 ***Si eres consistente*** con la acción, se formará un hábito nuevo (garantizado).
 
-Siempre ten una pequeña lista de metas para alcanzar; cuando completes una, continúa con la siguiente.
+Siempre hay que tener una pequeña lista de metas para alcanzar; cuando completes una, continúa con la siguiente.
 
