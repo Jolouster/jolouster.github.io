@@ -1,10 +1,11 @@
 ----
-layout:post
-title:Crear un hábito
-author:Jonathan López
+layout: post
+title: Crear un hábito
+author: Jonathan López
 ----
 
 Según ciertas fuentes, crear un hábito puede llevar 21 días. Pero ese dato está basado en un libro de 1960 de un cirujano plástico que habla del tiempo que le llevaba a las personas amputadas a ***"adaptarse"*** a la nueva situación.
+
 Los 21 día solo son una estimación del tiempo que tarda una persona en adaptarse a un nuevo *cambio*, pero no siempre se logra incorporar un *hábito* en ese tiempo.
 
 De acuerdo con investigadores del University College de Londres, crear un hábito, como hacer ejercicio o alimentarse de manera más saludable, puede tomar **alrededor de 66 días**, periodo que permite fijarlo y mantenerlo por muchos años. Depende mucho de cada persona, si hay que eliminar otro hábito y la dificultad del nuevo.
