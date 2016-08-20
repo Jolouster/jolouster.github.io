@@ -1,6 +1,6 @@
 ----
 layout:post
-Title:Crear un hábito
+title:Crear un hábito
 author:Jonathan López
 ----
 
@@ -17,7 +17,7 @@ Mientras más difícil sea el hábito, o tengamos que romper otra costumbre para
 
 Mery Viñas, psicóloga y coach fundadora de Beecome (Coaching & Training). 
 
-> “Lo que quieres convertir en un hábito, debe conectarte con algo que realmente te motive. Solo se pueden crear con aquellos objetivos y valores con los que te sientas alineado. No sirve de nada querer hacer ejercicio diariamente si eso no está conectado con algo importante para ti, por mucho que te lo recomiende el médico. Si algo no te gusta ni te apasiona, por mucho que lo hagas muchos días seguidos —como indican algunas teorías—, lo acabarás abandonando porque no le encontrarás el sentido. Es importante encontrar sentido a lo que haces y hallar una respuesta a ‘¿para qué lo hago?’ y no ‘¿por qué lo hago?”.
+> “Lo que quieres convertir en un hábito, debe conectarte con algo que realmente te motive. Solo se pueden crear con aquellos objetivos y valores con los que te sientas alineado. No sirve de nada querer hacer ejercicio diariamente si eso no está conectado con algo importante para ti, por mucho que te lo recomiende el médico. **Si algo no te gusta ni te apasiona, por mucho que lo hagas muchos días seguidos** —como indican algunas teorías—, **lo acabarás abandonando porque no le encontrarás el sentido.** Es importante encontrar sentido a lo que haces y hallar una respuesta a ‘¿para qué lo hago?’ y no ‘¿por qué lo hago?”.
 
 Para crear un nuevo hábito:
 
