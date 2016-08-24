@@ -47,6 +47,7 @@ De tanto en tanto es cuando se enviarán ofertas, promociones, etc. Si se sabe g
 bien, es un medio muy importante y eficaz de ventas.
 
 Como conclusión:
+
 > Internet te permite aceder a un mercado mundial con unos recursos mínimos.
 
 > **TODO** negocio que se precie, debe esforzarse por tener la parte online
