@@ -58,7 +58,7 @@ Con esto conseguiremos que nuestro código mejore muchísimo. Hay que tratar de 
 
 Aplicar todo esto de forma regular y natural nos puede llevar su tiempo. Pero todo es parte de nuestra mejora continua y necesaria como ***programadores profesionales***. 
 
-Los *test unitarios* ya son de por sí un mundo, yo de hecho no tengo mucho que aprender sobre el tema... 
+Los *test unitarios* ya son de por sí un mundo, yo de hecho tengo mucho que aprender sobre el tema... 
 
 El siguiente paso será aprender:
 
