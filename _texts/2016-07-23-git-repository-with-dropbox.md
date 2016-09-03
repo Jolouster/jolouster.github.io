@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Crear un repositorio GIT en Dropbox y compartirlo con otros.
+meta: Un repositorio GIT en Dropbox te permite trabajar con otros en tus proyectos. Ideal para programadores.
 author: Jonathan López
+category: Tutoriales
 ---
 
 Se supone que ya tenemos instalado Git y una cuenta creada en Dropbox.

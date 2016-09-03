@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Crear un hábito
+meta: ¿Qué se necesita para crear un hábito útil? ¿Cuánto tiempo voy a tardar en conseguir obtener este hábito? 
 author: Jonathan López
+category: Hábitos
 ---
 
 Según ciertas fuentes, crear un hábito puede llevar 21 días. Pero ese dato está basado en un libro de 1960 de un cirujano plástico que habla del tiempo que le llevaba a las personas amputadas a ***"adaptarse"*** a la nueva situación.

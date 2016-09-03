@@ -1,8 +1,10 @@
 ---
 layout: post
 title: Grabar una ISO en USB desde la terminal en Mac OSx
+meta: Cómo grabar una ISO en una memoria USB en Mac OSx
 author: Jonathan López
 source: https://youtu.be/fu2g_E2ZK8A
+category: Tutoriales
 ---
 
 

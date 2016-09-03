@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Se nos va la vida
+meta: A veces hay que parar y pensar en qué se nos va el tiempo y la vida.
 author: Jonathan López
+category: Reflexiones
 ---
 
 ¿En qué se van las horas de tu vida?

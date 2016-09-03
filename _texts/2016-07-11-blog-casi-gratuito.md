@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Creando nuestra web para empresa de forma simple y casi gratis
+meta: Una breve guía para crear una web muy sencilla para nuestro negocio.
 author: Jonathan López
+category: Tutoriales
 ---
 
 Simplemente necesitamos una cuenta en [Google][1] y unos 10€ para comprar nuestro

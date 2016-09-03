@@ -1,7 +1,9 @@
 ---
 layout: post
 title: La importancia de estar en "la red".
+meta: Por qué un negocio tiene que tener una presencia sólida en Internet. Cualquier tipo de negocio y empresa debe tener una web corporativa. Aquí se explica las razones.
 author: Jonathan López
+category: Tutoriales
 ---
 
 

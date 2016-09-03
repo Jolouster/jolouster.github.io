@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Cómo mejorar tu código
+meta: Para llegar a ser un programador profesional y hacer código de calidad se pueden aplicar estos consejos para conseguir código limpio, código fácil de leer.
 author: Jonathan López
+category: Programación
 ---
 
 Independientemente del lenguaje que se use para programar siempre se puede mejorar nuestros programas siguiendo estas "normas" o recomendaciones básicas:

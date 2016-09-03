@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Ser constante y mantener la motivación
+meta: La clave para el éxito personal es la constancia y la motivación. Ésta es la reflexión a la que he llegado.
 author: Jonathan López
+category: Hábitos
 ---
 
 Ya he leído en varios lugares algo que muchos ya saben: 

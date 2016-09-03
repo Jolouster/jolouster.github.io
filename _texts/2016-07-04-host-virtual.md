@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Crear un host virtual para desarrollo web
+meta: Un programador web que hace aplicaciones web debe saber cómo crear un host virtual en su máquina de desarrollo. Ideal para los que empiezan a hacer sus desarrollos web en Linux.
 author: Jonathan López
+category: Desarrollo web
 ---
 
 ## ¿Qué es un _host virtual_?

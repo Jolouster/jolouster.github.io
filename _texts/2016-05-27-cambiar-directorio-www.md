@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Cambiar el directorio web en el servidor apache.
+meta: El servidor web Apache permite configurar nuestro directorio de trabajo para el desarrollo web en local. Aquí se explica cómo hacerlo.
 author: Jonathan López
+category: Tutoriales
 ---
 
 Cambiar el directorio raiz donde se almacenan nuestras aplicaciones web en el servidor apache. Para colocar nuestros desarrollos de aplicaciones web donde queramos (normalmente dentro del directorio del usuario).

@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Aplicar la guía de estilo en C++
+meta: Una manera de mejorar como programador profesional es aplicando de forma consistente una guía de estilo.
 author: Jonathan López
+category: Programación
 ---
 
 Es una buena práctica de programación tener una guía de estilo, pero sobre todo, ***aplicarla***. 

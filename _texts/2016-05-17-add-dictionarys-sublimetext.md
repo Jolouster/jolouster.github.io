@@ -1,8 +1,10 @@
 ---
 layout: post
 title: Añadir diccionarios de diferentes idiomas a Sublime Text
+meta: Para comprobar la ortografía en Sublime Text en cualquier idioma.
 author: Jonathan López
 source: http://apuntes-snicoper.readthedocs.io/es/latest/editors/sublime_text/sublime_text_3.html
+category: Tutoriales
 ---
 
 Solo hay que descargar los diccionarios de los idiomas que queramos y copiarlos en el directorio adecuado. Lo podemos hacer con los siguientes comandos:
