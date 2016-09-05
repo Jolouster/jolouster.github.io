@@ -65,3 +65,4 @@ Para sacarle el máximo provecho cuanto más se conozca mejor. Es muy extenso y 
 
 --- 
 [^1]: "Framework" es la palabra inglesa que se usa para referirse al entorno de trabajo. Un conjunto o estructura de bibliotecas, compiladores, IDE, clases y métodos predefinidos, etc. que facilitan la creación de aplicaciones.
+[^2]: "Qt Meta Lenguage" o lo que viene siendo "Lenguaje inventado por Qt" para crear interfaces de usuario muy interesantes. Más información en: [la Wikipedia](https://es.wikipedia.org/wiki/QML) y [página oficial de Qt](http://doc.qt.io/qt-5/qmlapplications.html)
