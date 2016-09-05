@@ -12,6 +12,7 @@
   <!--   Dublin Core metadata for Zotero -->  
   <meta name="DC.title" content="{{ page.title }}" />
   <meta name="DC.creator" content="{{ page.author }}" />
+  <meta name="DC.description" content="{{ page.meta }}" />
   <meta name="DC.contributor" content="{{ page.editor }}" />
   <meta name="DC.date" content="{{ page.publication-date }}" />
   <meta name="DC.rights" content="{{ page.rights }}" />
@@ -20,6 +21,7 @@
   <!-- Open Graph metadata -->
   <meta property="og:title" content="{{ page.title }}"/>
   <meta property="og:author" content="{{ page.author }}"/>
+  <meta property="og:description" content="{{ page.meta }}" />
   <meta property="og:book:release_date" content="{{ page.publication-date }}"/>
   <meta property="og:type" content="website" />
   <meta property="og:url" content="{{ site.url }}"/>
