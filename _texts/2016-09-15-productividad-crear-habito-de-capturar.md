@@ -7,6 +7,7 @@ category: Productividad
 tag: GTD
 ---
 
+
 El primer paso para establecer el método GTD como sistema de productividad personal en tu vida es capturar *todo aquello que te llama la atención o preocupa* de alguna manera.
 
 **Principio:** La función de tu mente es tener ideas, no almacenarlas.
