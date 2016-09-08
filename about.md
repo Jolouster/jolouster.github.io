@@ -3,7 +3,7 @@ layout: page
 title: Sobre mi
 ---
 
-![mi imagen](assets/yo.jpeg) Hola, soy Jonathan López. Supongo que si estás leyendo esto es que quieres saber un poco más sobre el autor de este blog. Te cuento...
+<img alt="mi imagen" src="assets/yo.jpeg" style="min-width:150px; max-width:25%; display:inline-block; margin:10px"> Hola, soy Jonathan López. Supongo que si estás leyendo esto es que quieres saber un poco más sobre el autor de este blog. Te cuento...
 
 ### A qué me dedico.
 
