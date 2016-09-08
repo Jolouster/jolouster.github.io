@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Cómo mejorar tu código
-meta: Para llegar a ser un programador profesional y hacer código de calidad se pueden aplicar estos consejos para conseguir código limpio, código fácil de leer.
+title: Cómo mejorar tu código fuente
+meta: Para llegar a ser un programador profesional y hacer código fuent de calidad se pueden aplicar estos consejos para conseguir código limpio, código fácil de leer.
 author: Jonathan López
 category: Programación
 ---
 
-Independientemente del lenguaje que se use para programar siempre se puede mejorar nuestros programas siguiendo estas "normas" o recomendaciones básicas:
+Independientemente del lenguaje (C++, java, javascript...) que se use para programar siempre se puede mejorar nuestros programas siguiendo estas "normas" o recomendaciones básicas:
 
 1. Usa **nombres autoexplicativos**, con significado.  
-	Tu código debería poder leerse como si fuese un libro. Muy muy muy importante. Seguir siempre el mismo estilo y forma de elegir los nombres. 
+	Tu código fuente debería poder leerse como si fuese un libro. Muy muy muy importante. Seguir siempre [la misma guía de estilo](http://jolouster.com/texts/2016-08-20-aplicar-estilos-cpp.html) al elegir los nombres de variables, constantes, métodos, clases y funciones. 
 
 2. Crear funciones y métodos **cortos**.  
 	Hace fácil seguir la ejecución del código. Muy relacionado con el siguiente punto.
@@ -36,14 +36,14 @@ Independientemente del lenguaje que se use para programar siempre se puede mejor
 	* cuando se realizan cambios en el código se suele olvidar actualizar los comentarios.
 
 7. Usar **un único formato y estilo** en el código.   
-	Para saber más puedes leer ["Aplicar la guía de estilo en C++"](http://jolouster.com/texts/aplicar-estilos-cpp.html). Quizás también te ayude en tu lenguaje.
+	Para saber más puedes leer ***["Aplicar la guía de estilo en C++"](http://jolouster.com/texts/aplicar-estilos-cpp.html)***. Quizás también te ayude en tu lenguaje.
 
 8. Un objeto no debería conocer la estructura de otros objetos con los que iteractua.  
 	Código como este:
 
 		getX().getY().getZ().doSomething()
 
-	Hay que evitarlo. Huele mal. Rediseñar y pensar mejor la arquitectura de nuestro progarama.
+	Hay que evitarlo. Huele mal. Rediseñar y pensar mejor la arquitectura de nuestro programa.
 
 9. **Abstraer los datos**.  
 	Tener claro si una "clase" es una simple estructura de datos o un objeto con comportamiento. *Evitar el **abuso*** de funciones "get" y "set".
@@ -51,12 +51,12 @@ Independientemente del lenguaje que se use para programar siempre se puede mejor
 10. Usar **excepciones en lugar de devolver códigos de error**.  
 	Crear excepciones propias que sean claras y autoexplicativas con un simple vistazo. Que devuelvan mensajes de error claros y descriptivos.
 
-11. Cuando se use código que no sea nuestro, usarlo de manera **que sea fácil de sustituir**.  
+11. Cuando se use código que no sea nuestro, usarlo de manera **que sea fácil de sustituir**.
 
 12. Usar los [**test unitarios**](http://devexperto.com/testing-1/).  
 	Permite *validar rápidamente* nuestro código y nos evita escribir código de más.
 
-Con esto conseguiremos que nuestro código mejore muchísimo. Hay que tratar de aplicar estas recomendaciones de forma habitual para que sea algo consistente en nuestros programas.
+Con esto conseguiremos que nuestro código fuente mejore muchísimo (lo que afecta directamente al software final). Hay que tratar de aplicar estas recomendaciones de forma habitual para que sea algo consistente en nuestros programas.
 
 Aplicar todo esto de forma regular y natural nos puede llevar su tiempo. Pero todo es parte de nuestra mejora continua y necesaria como ***programadores profesionales***. 
 
