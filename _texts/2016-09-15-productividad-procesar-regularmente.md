@@ -4,6 +4,7 @@ title: Productividad (2) - Aclar o "procesar" regularmente
 meta: El segundo paso para establecer el método GTD como sistema de productividad personal en tu vida es el de aclarar o procesar tu bandeja de entrada.
 author: Jonathan López
 category: Productividad
+comments: true
 ---
 
 El segundo  paso para establecer el método GTD como sistema de productividad personal en tu vida es aclarar o procesar *todo aquello que te llama la atención o preocupa* de alguna manera.

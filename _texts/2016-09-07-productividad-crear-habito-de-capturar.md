@@ -4,6 +4,7 @@ title: Productividad (1) - Crear el hábito de capturar
 meta: El primer paso para establecer el método GTD como sistema de productividad personal en tu vida.
 author: Jonathan López
 category: Productividad
+comments: trues
 ---
 
 
