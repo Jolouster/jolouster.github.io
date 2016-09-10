@@ -52,5 +52,5 @@ Sabes por qué y para qué haces las cosas. Tienes claro qué tienes que hacer y
 
 ¿Has vivido alguna vez con una claridad así? ¿No? tienes que vivirlo para saber la satisfacción y tranquilidad que se siente. Yo no soy cabaz de describirlo correctamente con palabras. ¡Pruébalo!
 
-
+---
 [^1]: Cuidado con no saltarse este paso. Muchas personas tendemos a "intentar organizar" las cosas sin antes haber ***aclarado qué significan exactamente*** para nosotros.
