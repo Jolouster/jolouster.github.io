@@ -8,23 +8,24 @@ layout: default
 
   <br>
   <p>
-  	Te invito a que dejes un comentario más abajo y me digas que opinas al respecto. Si te ha gustado, puedes <a href="https://twitter.com/intent/tweet?url={{ site.url }}{{ page.url }}&text={{ page.title }}&via=jolouster" target="_blank">compartirlo con tus seguidores</a> o <a href="https://twitter.com/jolouster">puedes seguirme en Twitter</a>
+  	Te invito a que dejes un comentario más abajo y me digas que opinas al respecto. Si te ha gustado, puedes 
+  	<a href="https://twitter.com/intent/tweet?url={{ site.baseurl }}{{ page.url }}&text={{ page.title }}&via=jolouster" target="_blank">
+  	compartirlo
+  	</a> 
+  	o 
+  	<a href="https://twitter.com/jolouster">puedes seguirme en Twitter</a>
   </p>
 </div>
 <hr>
 <div id="disqus_thread"></div>
 <script>
 
-/**
- *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
- *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables */
-
 var disqus_config = function () {
-    this.page.url = '{{ site.baseurl }}';  // Replace PAGE_URL with your page's canonical URL variable
-    this.page.identifier = '{{ page.url }}'; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    this.page.url = '{{ site.baseurl }}';  
+    this.page.identifier = '{{ page.url }}'; 
 };
 
-(function() { // DON'T EDIT BELOW THIS LINE
+(function() { 
     var d = document, s = d.createElement('script');
     s.src = '//jolouster.disqus.com/embed.js';
     s.setAttribute('data-timestamp', +new Date());
