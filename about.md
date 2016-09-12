@@ -48,9 +48,7 @@ Como lo que soy, lo que siento y pienso afecta directamente a lo que hago y cóm
 ### Por qué uso un sitio web estático
 
 - Porque no necesito más. 
-- Tampoco uso cookies ni hago seguimiento de las visitas. 
-- No hago analítica web, aunque podría hacerlas igualmente... No me preocupa si me leen 1000 personas al día o 1 sola persona al mes. 
-- No hay publicidad ni gano dinero con el blog.
+- Quiero algo simple y minimalista, como el estilo de vida que quiero para mi.
 - Escribo pensando que la información que aporto es práctica y útil. Que me lea quien quiera. Lo demás me da igual.
 
 ### Conclusión
