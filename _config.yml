@@ -30,7 +30,7 @@ kramdown:
 title:               Jolouster
 tagline:             'Come, bebe y ve el bien por todo tu duro trabajo'
 description:         'Hola, soy <b>Jonathan López</b> y esta es mi página personal. Aquí encontrarás mis apuntes de programación, informática e investigaciones. Devuelvo así el favor a todos aquellos que han compartido con todos su saber a través de Internet.'
-url:                 'http://jolouster.github.io'
+url:                 'http://jolouster.com'
 baseurl:             ''
 
 # About/contact
@@ -41,6 +41,17 @@ author:
 
 # Custom vars
 version:             0.0.5
+
+# Filtrado de contenido
+show_drafts: null
+future: false
+
+# Configuración
+incremental: true
+
+# Añadir feed RSS al blog
+gems:
+  - jekyll-feed
 
 # Exclude optional folder
 exclude: [
