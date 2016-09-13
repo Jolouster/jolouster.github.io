@@ -31,7 +31,6 @@ title:               Jolouster
 tagline:             'Come, bebe y ve el bien por todo tu duro trabajo'
 description:         'Soy Jonathan López, soy programador y me encanta. Disfruto de mi trabajo. Aquí encontrarás información sobre programación, arquitecturas, desarrollo personal, GTD y mucho más.'
 url:                 http://jolouster.com
-baseurl:             ''
 
 # About/contact
 author:
@@ -50,8 +49,7 @@ future: false
 incremental: true
 
 # Añadir feed RSS al blog
-# gems:
-#  - jekyll-feed
+gems: jekyll-feed
 
 # Exclude optional folder
 exclude: [
