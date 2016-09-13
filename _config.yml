@@ -50,8 +50,8 @@ future: false
 incremental: true
 
 # Añadir feed RSS al blog
-gems:
-  - jekyll-feed
+# gems:
+#  - jekyll-feed
 
 # Exclude optional folder
 exclude: [
