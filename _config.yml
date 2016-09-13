@@ -27,10 +27,10 @@ kramdown:
   enable_coderay: false
 
 # Setup
-title:               Jolouster
+title:               'Jolouster'
 tagline:             'Come, bebe y ve el bien por todo tu duro trabajo'
 description:         'Soy Jonathan López, soy programador y me encanta. Disfruto de mi trabajo. Aquí encontrarás información sobre programación, arquitecturas, desarrollo personal, GTD y mucho más.'
-url:                 http://jolouster.com
+url:                 'http://jolouster.com'
 
 # About/contact
 author:
