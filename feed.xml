@@ -1,22 +1,22 @@
 ---
-layout: none
+layout: null
 ---
-
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>{{ site.title | xml_escape }}</title>
     <description>{{ site.description | xml_escape }}</description>
     <link>{{ site.url }}</link>
-    <atom:link href="{{ site.url }}/feed.xml" rel="self" type="application/rss+xml" />
     {% for item in site.texts %}
-      <item>
-        <title>{{ item.title | xml_escape }}</title>
-        <description>{{ item.content | xml_escape }}</description>
-        <pubDate>{{ item.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
-        <link>{{ site.url }}/{{ item.url }}</link>
-        <guid isPermaLink="true">{{ site.url }}/{{ item.url }}</guid>
-      </item>
+      {% unless item.draft %}
+        <item>
+          <title>{{ item.title | xml_escape }}</title>
+          <description>{{ item.content | xml_escape }}</description>
+          <pubDate>{{ item.date | date_to_xmlschema }}</pubDate>
+          <link>{{ item.url | prepend: site.url }}</link>
+          <guid isPermaLink="true">{{ item.url | prepend: site.url }}</guid>
+        </item>
+      {% endunless %}
     {% endfor %}
   </channel>
 </rss>
