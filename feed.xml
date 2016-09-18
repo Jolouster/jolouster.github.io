@@ -1,0 +1,22 @@
+---
+layout: null
+---
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>{{ site.title | xml_escape }}</title>
+    <description>{{ site.description | xml_escape }}</description>
+    <link>{{ site.url }}</link>
+    {% for item in site.texts reversed %}
+      {% unless item.draft %}
+        <item>
+          <title>{{ item.title | xml_escape }}</title>
+          <description>{{ item.content | xml_escape }}</description>
+          <pubDate>{{ item.date | date_to_xmlschema }}</pubDate>
+          <link>{{ item.url | prepend: site.url }}</link>
+          <guid isPermaLink="true">{{ item.url | prepend: site.url }}</guid>
+        </item>
+      {% endunless %}
+    {% endfor %}
+  </channel>
+</rss>
