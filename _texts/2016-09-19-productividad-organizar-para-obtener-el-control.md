@@ -52,7 +52,7 @@ Como se puede ver en lo ejemplos, las cosas, proyectos, eventos, etc. tienen su 
 
 Nuestra estructura o sistema de organización depende mucho de cada uno. Las categorías organizativas que propone David Allen en su libro "Haz que funcione" es la que se muestra a continuacíon.
 
-[!imagen](../assets/Categorias_organizativas.png)
+![imagen](../assets/Categorias_organizativas.png)
 
 Creo que la imágen es muy descriptiva y fácil de entender. Si alguien quiere que la analicemos más, dejad un comentario más abajo o enviadme un twitt a [@jolouster](http://twitter.com/jolouster).
 
