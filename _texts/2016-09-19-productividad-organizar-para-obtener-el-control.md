@@ -16,7 +16,7 @@ Tras analizar *uno a uno* cada "cosa" que has recolectado en "el proceso de capt
 
 Un ***error clave*** es creer que "organizarse" es un solo acto. 
 
-Lo que significa ***realmente "ser organizado"***: Significa *recolectar o capturar* todo aquello que no está en su sitio o no es como debería ser según nuestra opinión, *aclarar* qué significa exactamente para nosotros y lo que implica (lo que tenemos que hacer con ello) y *colocar* cada categoría de cosas es su ubicación apropiada. 
+***¿Qué significa realmente "ser organizado"?*** Significa *recolectar o capturar* todo aquello que no está en su sitio o no es como debería ser según nuestra opinión, *aclarar* qué significa exactamente para nosotros y lo que implica (lo que tenemos que hacer con ello) y *colocar* cada categoría de cosas es su ubicación apropiada. 
 
 Cuanto más exahustivo y elevado sea el nivel que alcancemos, más sentiremos que todo es sencillo, fluido y eficiente.
 
@@ -52,7 +52,7 @@ Como se puede ver en lo ejemplos, las cosas, proyectos, eventos, etc. tienen su 
 
 Nuestra estructura o sistema de organización depende mucho de cada uno. Las categorías organizativas que propone David Allen en su libro "Haz que funcione" es la que se muestra a continuacíon.
 
-[!imagen]()
+[!imagen](assets/Categorias_organizativas.png)
 
 Creo que la imágen es muy descriptiva y fácil de entender. Si alguien quiere que la analicemos más, dejad un comentario más abajo o enviadme un twitt a [@jolouster](http://twitter.com/jolouster).
 
