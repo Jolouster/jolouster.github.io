@@ -24,7 +24,7 @@ Es el nivel que más frecuentemente hay que revisar. Varias veces al día y tant
 
 Para saber qué tarea siguiente hay que realizar y finiquitar.
 
-Según el contexto en el que estemos (cola de banco, esperando a alguien con un teléfono a la mano, en el supermercado, etc) podremos ver qué tareas podemos realizar.
+Según el contexto en el que estemos (cola de espera del banco o esperando a alguien con un teléfono a la mano, en el supermercado, en la oficina, etc) podremos ver qué tareas podemos realizar.
 
 Otra forma de revisar el "Listado de tareas" es viendo:
 
@@ -81,11 +81,11 @@ El reflexionar y aclarar qué queremos conseguir en la vida, cómo queremos vivi
 
 ## La clave
 
-Si no estás dispuesto a hacer una valoración semanal de todos tus proyectos, tu cerebro (quizás inconscientemente) se empeñará en revisarlos continuamente. Sin apenas darte cuenta. Perderás la tranquilidad y claridad que te da un sistema de organización en que *puedes* confiar.
+Si no estás dispuesto a hacer una valoración semanal de todos tus proyectos, tu cerebro se empeñará en revisarlos continuamente. Sin apenas darte cuenta. Perderás la tranquilidad y claridad que te da un sistema de organización en que *puedes* confiar.
 
 **Ser conscientes que** revisar y reflexionar de un modo directo y consciente los listados completos de tus obligaciones, sin duda, **te proporciona claridad, creatividad y confianza en uno mismo**.
 
-La clave es darse cuenta de la importancia que tiene en tu sistema de organización. Tras hacerlas, trata de ver el beneficio que obtienes, cómo te hacen sentir y plantearte las cosas.
+**La clave es darse cuenta de la importancia** que tiene en tu sistema de organización. Tras hacerlas, trata de ver el beneficio que obtienes, cómo te hacen sentir y plantearte las cosas.
 
 Es muy fácil dejar de hacer las revisiones. A todos nos ha pasado alguna vez. Pero también es fácil retomarlas. 
 
