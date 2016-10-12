@@ -40,7 +40,7 @@ Si ahora mismo revisas todos tus proyectos, seguro que hay alguno que tienes que
 
 El revisar y reflexionar en los proyectos seguro que te recordarán detalles que antes ni te habías planteado y son necesarios tener en cuenta. 
 
-###Tus áreas de responsabilidad.
+### Tus áreas de responsabilidad.
 
 Esto necesita una revisión también semanal. 
 

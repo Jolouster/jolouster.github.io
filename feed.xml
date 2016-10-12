@@ -14,7 +14,6 @@ layout: null
           <description>{{ item.content | xml_escape }}</description>
           <pubDate>{{ item.date | date_to_xmlschema }}</pubDate>
           <link>{{ item.url | prepend: site.url }}</link>
-          <guid isPermaLink="true">{{ item.url | prepend: site.url }}</guid>
         </item>
       {% endunless %}
     {% endfor %}
