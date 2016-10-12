@@ -4,12 +4,14 @@ layout: default
 
 <div class="post">
   <h1 class="post-title">{{ page.title }}</h1>
+  <p class="myAuthor">Autor {{ page.author }} - {{ page.date | date: "%B %-d, %Y" }}</p>
   {{ content }}
 
   <br>
   <p>
-  	Te invito a que dejes un comentario más abajo y me digas que opinas al respecto. Si te ha gustado, puedes <a href="https://twitter.com/intent/tweet?url={{ site.url }}{{ page.url }}&text={{ page.title }}&via=jolouster" target="_blank">compartirlo</a> o <a href="https://twitter.com/jolouster">puedes seguirme en Twitter</a>
+  	Te invito a que dejes un comentario más abajo y me digas que opinas al respecto.
   </p>
+  {% include social-media.html %}
   <p>
     Si te ha gustado este artículo te invito a suscribirte a la lista de correo.
   </p>
