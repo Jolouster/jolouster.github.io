@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Productividad (4) - Reflexionar y revisar.
+title: Productividad GTD (4) - Reflexionar y revisar.
 meta: El cuarto paso para establecer el método GTD como sistema de productividad personal en tu vida es el de .
 author: Jonathan López
 category: Productividad
@@ -8,7 +8,7 @@ category: Productividad
 
 El cuarto paso para establecer el método GTD como sistema de productividad personal en tu vida es el de *revisar y reflexionar para mantener actualizado el sistema y poder confiar en él*.
 
-**Principio:** El revisar y reflexionar tiene dos propósitos: (1) mantener actualizado los datos que hay en tu sistema y (2) mantener cierta perspectiva sobre todo lo que estás haciendo.
+**Principio:** El revisar y reflexionar tiene dos propósitos: (1) mantener actualizado los datos que hay en tu sistema GTD y (2) mantener cierta perspectiva sobre todo lo que estás haciendo.
 
 El día a día está lleno de imprevistos y sorpresas. Es muy cambiante. Siempre surgen nuevos asuntos o suceden cosas que nos hacen aplazar los proyectos o tareas que tenemos en marcha. Es necesario revisar todos los datos de tu sistema y renovarlos cuando sea necesario para que se adapten a la realidad. Si no lo hacemos, no confiaremos en él y por lo tanto dejará de ser últil. 
 
@@ -20,7 +20,7 @@ Depende del nivel de enfoque que quieras revisar.
 
 ### Listado de tareas.
 
-Es el nivel que más frecuentemente hay que revisar. Varias veces al día y tantas como *tu* necesites. 
+Es el nivel que más frecuentemente hay que revisar en el sistema GTD. Varias veces al día y tantas como *tu* necesites. 
 
 Para saber qué tarea siguiente hay que realizar y finiquitar.
 
@@ -81,7 +81,7 @@ El reflexionar y aclarar qué queremos conseguir en la vida, cómo queremos vivi
 
 ## La clave
 
-Si no estás dispuesto a hacer una valoración semanal de todos tus proyectos, tu cerebro se empeñará en revisarlos continuamente. Sin apenas darte cuenta. Perderás la tranquilidad y claridad que te da un sistema de organización en que *puedes* confiar.
+Si no estás dispuesto a hacer una valoración semanal de todos tus proyectos, tu cerebro se empeñará en revisarlos continuamente. Sin apenas darte cuenta. Perderás la tranquilidad y claridad que te da un sistema de organización GTD en el que *puedes* confiar.
 
 **Ser conscientes que** revisar y reflexionar de un modo directo y consciente los listados completos de tus obligaciones, sin duda, **te proporciona claridad, creatividad y confianza en uno mismo**.
 
@@ -94,6 +94,6 @@ Simplemente ***planifica cuándo vas a hacer tu revisión*** semanal, la mensual
 ## Beneficios
 
 * Tener *la tranquilidad de saber* que **eres consciente de cómo están todos tus asuntos**. Qué estás dejando aparcado de forma consciente y qué proyectos estás llevando bien o cuales estás descuidando un poco.
-* **Poder confiar** en *tu* sistema de organización.
+* **Poder confiar** en *tu* sistema de organización GTD.
 * Poder concentrarte en tu tarea actual, sabiendo que *es lo que debes estar haciendo ahora*.
 * **Mantenerte enfocado en tus metas y objetivos**. Evitando que seas arrastrado por los imprevistos del día a día.

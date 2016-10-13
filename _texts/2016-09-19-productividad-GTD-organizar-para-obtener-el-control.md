@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Productividad (3) - Organizar para obtener el control
+title: Productividad GTD (3) - Organizar para obtener el control
 meta: El tercer paso para establecer el método GTD como sistema de productividad personal en tu vida es el de organizar todo lo que acabas de aclarar o procesar en el paso anterior.
 author: Jonathan López
 category: Productividad
@@ -24,7 +24,7 @@ Cuanto más exahustivo y elevado sea el nivel que alcancemos, más sentiremos qu
 
 Esta definición de organización se puede aplicar perfectamente a proyectos, eventos, citas, actividades y acciones pendientes. Aunque en estos casos su ubicación es más conceptual y cotextual que física.
 
-Ejemplo de cómo se puede hacer esto:
+Ejemplo de cómo se pueden organizar los asuntos bajo el sistema GTD:
 
 * Un lapiz. 
 	* *Significado*: Es una herramienta que uso todos los días para estudiar o trabajar. 
@@ -56,7 +56,7 @@ Nuestra estructura o sistema de organización depende mucho de cada uno. Las cat
 
 Creo que la imágen es muy descriptiva y fácil de entender. Si alguien quiere que la analicemos más, dejad un comentario más abajo o enviadme un twitt a [@jolouster](http://twitter.com/jolouster).
 
-El sistema que propone David Allen es un estándar muy útil y efectivo. Pero como todo se puede ajustar y adaptar a las necesidades de cada cual. Es un buen punto de partida.
+El sistema GTD que propone David Allen es un estándar muy útil y efectivo. Pero como todo se puede ajustar y adaptar a las necesidades de cada cual. Es un buen punto de partida.
 
 ## La clave
 
@@ -64,7 +64,7 @@ El sistema que propone David Allen es un estándar muy útil y efectivo. Pero co
 
 	Si no tienes un buen modelo de base sobre cómo y por qué contener y separar según qué materiales y con qué propósito, siempre tendremos la sensación de falta de orden de organización.  
 
-* Hay que revisar regularmente el sistema.
+* Hay que revisar regularmente el sistema GTD.
 
 	La idea es que para tener un sistema confiable, hay que actualizarlo y adaptar su contenido a los imprevistos y novedades del día a día. Eso se analizará más a fondo en la siguiente entrega sobre productividad.
 

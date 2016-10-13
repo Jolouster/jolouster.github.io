@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Productividad (1) - Crear el hábito de capturar
+title: Productividad GTD (1) - Crear el hábito de capturar
 meta: El primer paso para establecer el método GTD como sistema de productividad personal en tu vida.
 author: Jonathan López
 category: Productividad
@@ -21,6 +21,8 @@ Ejemplos de cómo se puede hacer esto:
 * Apuntando en un trozo de papel una única cosa que te llama la atención y poner este papel en una bandeja. 
 * En una libreta crear una lista, cada *item* de la lista es una única cosas que te llama la atención.
 * En una libreta de Evernote o OneNote ir añadiendo notas. Cada una con un texto, una imagen o una grabación de audio de una sola cosa que te preocupa.
+
+Para que nuestro sistema de organización GTD funcione hay que alimentarlo con información, y eso es lo que hace este primer paso. 
 
 ## Qué se ha de capturar
 
@@ -44,7 +46,7 @@ Como se puede observar no hay límite en la temática, ni el nivel de detalle. P
 ## La clave
 
 * ***Convertirlo en un hábito***
-	Esencial. Siempre que aparezca algo que nos llame la atención o una preocupación, "*capturarla*" en nuestro sistema. Esto implica que el lugar donde la capturemos (bandeja, libreta o aplicación de software) tiene que ser *cómoda de usar* y *muy accesible*.
+	Esencial. Siempre que aparezca algo que nos llame la atención o una preocupación, "*capturarla*" en nuestro sistema de organización GTD. Esto implica que el lugar donde la capturemos (bandeja, libreta o aplicación de software) tiene que ser *cómoda de usar* y *muy accesible*.
 * No juzgar las ideas que capturemos. 
 	Después en el siguiente paso ya veremos qué haremos con ello. En la "*captura*" no.
 * Sin compromiso.
@@ -52,8 +54,16 @@ Como se puede observar no hay límite en la temática, ni el nivel de detalle. P
 * Capturar en cualquier lugar o momento.
 	Tomando notas en una reunión, cuando nos interrumpen durante nuestro trabajo, mientras estamos tomando un café o mientras cocinamos... 
 
-Todo lo capturado se "*procesará*" después. Lo apuntas, te lo quitas de la cabeza y luego te ocuparás de ello si no es muy urgente o es cuestión de vida o muerte.
+Todo lo capturado se "*procesará*" después en el segundo paso del sistema de organización GTD. 
+
+Lo apuntas, te lo quitas de la cabeza y luego ya te ocuparás de ello si no es muy urgente o es cuestión de vida o muerte.
 
 ## Beneficios
 
-Dejas la mente libre para pensar y concentrarte en lo que estás haciendo *ahora*. Se puede ser más creativo, ya que la mente no se tiene que preocupar por las cosas pendientes. Si lo capturas *todo*, te aseguras de que no te dejas nada en el tintero y eso te da una libertad y tranquilidad increíble. ¡Pruébalo!
+Este primer paso en la implementación del sistema de organización GTD es el que más impacto tiene en el usuario.
+
+* Dejas la mente libre para pensar y concentrarte en lo que estás haciendo *ahora*. 
+* Se puede ser más creativo, ya que la mente no se tiene que preocupar por las cosas pendientes. 
+* Si lo capturas *todo*, te aseguras de que no te dejas nada en el tintero y eso te da una libertad y tranquilidad increíble. 
+
+¡Pruébalo!
