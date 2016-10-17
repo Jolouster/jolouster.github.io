@@ -120,7 +120,7 @@ Alguno dirá....
 
 Todo es planificarse y estar organizado. **Quien quiere, puede. No es fácil, pero se puede**.
 
-Yo también quiero exprimir cada hora de mi vida al máximo, disfrutarla y ser productivo. Pero creo que formarse es la única manera de ser "*desarrollador de software **profesional***".
+Yo también quiero exprimir cada hora de mi vida al máximo, disfrutarla y ser productivo. Pero creo que formarse es la única manera de ser *desarrollador de software "**profesional**"*.
 
 De ahí que también me interesen temas como:
 
