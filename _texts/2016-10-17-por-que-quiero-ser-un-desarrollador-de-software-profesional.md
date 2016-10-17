@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Por qué quiero ser un desarrollado de software profesional.
+title: Por qué quiero ser un desarrollador de software profesional.
 meta: Razones para dejar de ser un simple programador mediocre y convertirse en un gran desarrollador profesional.
 author: Jonathan López
 category: Desarrollo profesional
@@ -26,7 +26,7 @@ Un desarrollador de software, **además de ser un programador**, es capaz de *di
 
 El desarrollador de software no sólo busca que el código funcione. Busca y se centra en que también sea robusto, limpio, reusable, fácil de mantener y ampliar. Esta es la principal diferencia entre uno y otro.
 
-## Mi experiencia como simple programador de software.
+## Mi experiencia como simple programador de software.
 
 Aunque ser desarrollador requiere formarse mucho más y esforzarse constantemente por mejorar la forma de hacer las cosas en tu trabajo del día a día, creo que realmente vale la pena.
 
