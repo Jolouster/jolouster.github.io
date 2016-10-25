@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 5 claves para ser independiente.
+title: 5 claves para ser independiente
 meta: ¿Quieres más tiempo libre para ti y los tuyos? ¿dejar de ser esclavo de tu trabajo? Aquí tienes 5 claves para ser independiente.
 author: Oscar Torres
 category: Desarrollo profesional
