@@ -55,7 +55,7 @@ Feliz Día :)
 
 
 ---
-***El autror:***
+***El autor:***
 
 <img alt="Foto de Oscar R. Torres" src="../assets/Oscar-Torres.jpeg" style="display:inline-block; margin:10px; float:left; position:relative;"> **Oscar R. Torres G**. Escribe todas las semanas en su blog [TuVidaSencilla.com](http://tuvidasencilla.com) sus artículos se enfocan en motivarte a simplificar tu vida y alcanzar tus sueños, puedes seguirle en [Facebook](https://www.facebook.com/OscarTorresBlog), [Twitter](https://twitter.com/TuVidaSencilla) o [Instagram](https://www.instagram.com/oscar_rtorresg/).
 
