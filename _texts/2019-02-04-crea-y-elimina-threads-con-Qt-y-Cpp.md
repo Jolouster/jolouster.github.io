@@ -3,6 +3,8 @@ layout: post
 title: Crear, eliminar y volver a crear hilos en Qt/C++
 meta: Aprende a crear correctamente hilos (threads), a eliminarlos y volver a crearlos con C++ y Qt.
 category: Programación
+author: Jonathan López
+tag: C++
 ---
 
 
