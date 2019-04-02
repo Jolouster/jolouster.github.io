@@ -11,7 +11,7 @@ Actualmente estoy centrado en:
 * Convertir el método [GTD](https://encrypted.google.com/search?hl=es&q=Getting+Things+Done) en un hábito en mi vida.
 * Aprender bien QML, a nivel profesional.
 * Actualizar mis conocimientos sobre la ultima versión de *javascript*.
-* Realizar la transición a un estilo de vida minimalista. Quiero simplificar mi vida para centrarme en lo realmente importante para mi.
+* Mantener y cuidar mi estilo de vida minimalista.
 * Planificar el próximo gran cambio en mi vida. Ya iré contando más en próximos artículos.
 
 Con esto espero conseguir mejorar como programador y profesional. 
