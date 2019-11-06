@@ -37,19 +37,25 @@ El problema que le veo a la documentación oficial de Cmake es que está solo en
 
 Tenemos un único archivo para nuestro proyecto.
 
-    ~/proyectoTest
-        |
-        --> main.cpp
+~~~ bash
+~/proyectoTest
+    |
+    --> main.cpp
+~~~
 
 El archivo `main.cpp` bien podría ser el típico "Hola mundo!" para hacer las pruebas iniciales.
 
 Para compilar y generar el ejecutable llamado 'test' simplemente tenemos que ejecutar:
 
-    g++ main.cpp -o test
+~~~ bash
+g++ main.cpp -o test
+~~~
 
 Si lo queremos ejecutar:
 
-    ./test
+~~~ bash
+./test
+~~~
 
 Todo muy básico y sencillo, ¿no? 
 
@@ -57,34 +63,44 @@ Pues empecemos a usar Cmake desde aquí.
 
 En la carpeta del proyecto creamos un archivo llamado `CMakeLists.txt`. Siempre se debe llamar así para que Cmake lo encuentre.
 
-    ~/proyectoTest
-        |
-        |-> main.cpp
-        --> CMakeLists.txt
+~~~ bash
+~/proyectoTest
+    |
+    |-> main.cpp
+    --> CMakeLists.txt
+~~~
 
 Dentro de este archivo `CMakeLists.txt` escribimos lo siguiente:
 
-    # Versión mínima de Cmake que se debe usar en este proyecto
-    cmake_minimum_required(VERSION 3.10)
+~~~ bash
+# Versión mínima de Cmake que se debe usar en este proyecto
+cmake_minimum_required(VERSION 3.10)
 
-    # El nombre que queramos dar al proyecto. Aqui elegimos 'Tutorial'.
-    project(Tutorial)
+# El nombre que queramos dar al proyecto. Aqui elegimos 'Tutorial'.
+project(Tutorial)
 
-    # Generamos el ejecutable 'Tutorial' a partir del archivo que tenemos.
-    add_executable(Tutorial main.cpp)
+# Generamos el ejecutable 'Tutorial' a partir del archivo que tenemos.
+add_executable(Tutorial main.cpp)
+~~~
 
 Listo, ya tenemos nuestra primera configuración de Cmake hecha. Para compilar el proyecto, solo tenemos que ejecutar lo siguente en la terminal:
 
-    ~/proyectoTest$ cmake -H. -Bbuild
+~~~ bash
+~/proyectoTest$ cmake -H. -Bbuild
+~~~
 
 Cmake crea el directorio donde "construirá" el proyecto llamado `build` y dentro crea los archivos de configuración del proyecto.
 
 Después toca compilar el proyecto:
 
-    ~/proyectoTest$ cmake --build build
+~~~ bash
+~/proyectoTest$ cmake --build build
+~~~
 
 Ya está. Podemos comprobar que dentro de `build` se ha creado el ejecutable 'Tutorial'. Podemos ejecutarlo:
 
-    ~/proyectoTest$ ./build/Tutorial
+~~~ bash
+~/proyectoTest$ ./build/Tutorial
+~~~
 
 Esto es lo más básico con lo que podemos empezar a usar Cmake. Si tenéis alguna duda dejad un comentario y tan pronto como me sea posible os intentaré respoder.
