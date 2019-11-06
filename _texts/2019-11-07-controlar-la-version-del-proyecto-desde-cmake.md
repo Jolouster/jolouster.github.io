@@ -50,7 +50,7 @@ configure_file (archivoEntrada archivoSalida)
 Ahora para hacer uso de esta instrucción hay que saber que CMake por defecto tambien tiene sus propias variables. Una de ellas es `PROJECT_SOURCE_DIR`. Esta variable nos dice el directorio "raíz" de nuestro proyecto. Para utilizarla lo haremos de la siguiente manera:
 
 ~~~ bash
-    configure_file (${PROJECT_SOURCE_DIR}/config.h.in ${PROJECT_SOURCE_DIR}/config.h)
+configure_file (${PROJECT_SOURCE_DIR}/config.h.in ${PROJECT_SOURCE_DIR}/config.h)
 ~~~
 
 Esta línea lo que hace es acceder del contenido de "config.h.in", sustituir los las variables que usaremos en este archivo por el valor final que tendrán.
@@ -58,8 +58,8 @@ Esta línea lo que hace es acceder del contenido de "config.h.in", sustituir los
 Ahora cuando las utilicemos se entenderá mejor. Creamos el archivo `config.h.in` y en él escribimos:
 
 ~~~ bash
-    #define VERSION_MAJOR @Tutorial_VERSION_MAJOR@
-    #define VERSION_MINOR @Tutorial_VERSION_MINOR@
+#define VERSION_MAJOR @Tutorial_VERSION_MAJOR@
+#define VERSION_MINOR @Tutorial_VERSION_MINOR@
 ~~~
 
 Cuando construyamos el proyecto con CMake, al llegar aquí, sustituirá `@Tutorial_VERSION_MAJOR@` por un `1` y `@Tutorial?VERSION_MINOR@` por un `0` y creará con esta información el archivo `config.h` de forma automática.
@@ -67,34 +67,34 @@ Cuando construyamos el proyecto con CMake, al llegar aquí, sustituirá `@Tutori
 Ahora en nuestro `main.cpp` podríamos tener:
 
 ~~~ cpp
-    #include <iostream>
-    #include "config.h"  // Archivo generado automáticamente
+#include <iostream>
+#include "config.h"  // Archivo generado automáticamente
 
-    int main () {
-        std::cout << "Hola mundanal ruido!" << std::endl;
-        std::cout << "Versión: " << VERSION_MAJOR << ":" << VERSION_MINOR << std::endl;
+int main () {
+    std::cout << "Hola mundanal ruido!" << std::endl;
+    std::cout << "Versión: " << VERSION_MAJOR << ":" << VERSION_MINOR << std::endl;
 
-        return 0;
-    }
+    return 0;
+}
 ~~~
 
 Podemos construir ahora el proyecto. En la terminal:
 
 ~~~ bash
-    ~/proyectoTest$ cmake --build build
+~/proyectoTest$ cmake --build build
 ~~~
 
 Ejecutamos:
 
 ~~~ bash
-    ~/proyectoTest$ ./build/Tutorial
+~/proyectoTest$ ./build/Tutorial
 ~~~
 
 Resultado:
 
 ~~~ bash
-    Hola mundanal ruido!
-    Versión: 1.0
+Hola mundanal ruido!
+Versión: 1.0
 ~~~
 
 Ahora ya sabemos cómo usar variables y cómo emplearlas en nuestro proyecto.
