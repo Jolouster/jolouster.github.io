@@ -41,19 +41,21 @@ set (Tutorial_VERSION_MAJOR 1)
 set (Tutorial_VERSION_MINOR 0)
 ~~~
 
-Perfecto, ya tenemos nuestras variables. Para utilizarlas en nuestro programa:
+Perfecto, ya tenemos nuestras variables. Para utilizarlas en nuestro programa, crearemos un archivo en el que usaremos estas variables. Al construir el proyecto, CMake al pasar por éste, sustituirá las variables por los valores que les hayamos dado y "creará" otro archivo con el nombre que nosotros queramos con estos valores. 
+
+Esto se hace con las siguientes instrucciones:
 
 ~~~ bash
 configure_file (archivoEntrada archivoSalida)
 ~~~
 
-Ahora para hacer uso de esta instrucción hay que saber que CMake por defecto tambien tiene sus propias variables. Una de ellas es `PROJECT_SOURCE_DIR`. Esta variable nos dice el directorio "raíz" de nuestro proyecto. Para utilizarla lo haremos de la siguiente manera:
+Ahora para hacer uso de esta instrucción hay que saber que CMake por defecto también tiene sus propias variables. Una de ellas es `PROJECT_SOURCE_DIR`. Esta variable nos dice el directorio "raíz" de nuestro proyecto. La utilizamos de la siguiente manera:
 
 ~~~ bash
 configure_file (${PROJECT_SOURCE_DIR}/config.h.in ${PROJECT_SOURCE_DIR}/config.h)
 ~~~
 
-Esta línea lo que hace es acceder del contenido de "config.h.in", sustituir los las variables que usaremos en este archivo por el valor final que tendrán.
+Esta línea lo que hace es acceder del contenido de "config.h.in", sustituir las variables que usaremos en este archivo por el valor final que tendrán.
 
 Ahora cuando las utilicemos se entenderá mejor. Creamos el archivo `config.h.in` y en él escribimos:
 
@@ -62,11 +64,11 @@ Ahora cuando las utilicemos se entenderá mejor. Creamos el archivo `config.h.in
 #define VERSION_MINOR @Tutorial_VERSION_MINOR@
 ~~~
 
-Cuando construyamos el proyecto con CMake, al llegar aquí, sustituirá `@Tutorial_VERSION_MAJOR@` por un `1` y `@Tutorial?VERSION_MINOR@` por un `0` y creará con esta información el archivo `config.h` de forma automática.
+Cuando construyamos el proyecto con CMake, al llegar aquí, sustituirá `@Tutorial_VERSION_MAJOR@` por un `1` y `@Tutorial_VERSION_MINOR@` por un `0` y creará con esta información el archivo `config.h` de forma automática.
 
 Ahora en nuestro `main.cpp` podríamos tener:
 
-~~~ 
+~~~ cpp
 #include <iostream>
 #include "config.h"  // Archivo generado automáticamente
 
@@ -78,7 +80,7 @@ int main () {
 }
 ~~~
 
-Podemos construir ahora el proyecto. En la terminal:
+Podemos construir el proyecto. En la terminal:
 
 ~~~ bash
 ~/proyectoTest$ cmake --build build
@@ -96,6 +98,16 @@ Resultado:
 Hola mundanal ruido!
 Versión: 1.0
 ~~~
+
+## Conclusión
+
+Recapitulamos un poco:
+
+- Para establecer variables: `set (nombre_variable valor)`
+- Para usar variables: `${nombre_variable}` o `@nombre_variable@`
+- Crear un archivo de cabecera con los valores de nuestras variables: `configure_file(archivo_con_variables archivo_con_valores)`
+
+Con esto es con lo que nos debemos quedar después de leer todo este artículo.
 
 Ahora ya sabemos cómo usar variables y cómo emplearlas en nuestro proyecto.
 
