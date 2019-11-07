@@ -66,7 +66,7 @@ Cuando construyamos el proyecto con CMake, al llegar aquí, sustituirá `@Tutori
 
 Ahora en nuestro `main.cpp` podríamos tener:
 
-~~~ 
+~~~ cpp
 #include <iostream>
 #include "config.h"  // Archivo generado automáticamente
 
