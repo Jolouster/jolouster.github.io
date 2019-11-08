@@ -1,19 +1,19 @@
 ---
 layout: post
-title: Introducción a Cmake (1)
-meta: Empezar a usar Cmake desde cero. Una pequeña guía de uso para torpes
+title: Tutorial CMake 1 - Introducción
+meta: Empezar a usar CMake desde cero. Una pequeña guía de uso para torpes
 category: Programación
 author: Jonathan López
 tag: C++
 ---
 
-La idea es crear una serie de artículos en el que se explica cómo usar [Cmake](https://cmake.org) desde cero.
+La idea es crear una serie de artículos en el que se explica cómo usar [CMake](https://cmake.org) desde cero.
 
 Por una parte para ayudar a la gente que quiere empezar a utilizar esta gran herramienta en sus proyectos de programación con una documentación de calidad en español que le guíe paso a paso desde cero.
 
 Por otra parte para hacer una recopilación de mis propios apuntes y tenerlos siempre disponibles.
 
-## ¿Qué es Cmake?
+## ¿Qué es CMake?
 Es una herramienta que nos permite compilar, testear y empaquetar nuestro proyecto de software.
 
 ### Explicación.
@@ -25,15 +25,15 @@ Si sumamos a este proyecto los test unitarios, que solo queremos para depuració
 
 Quizás queramos compilar unas veces para Windows, otras veces para Linux y otras para MacOS. Realizar las diferentes compilaciones a mano puede ser muy tedioso y complicado.
 
-Para hacer todo esto es Cmake.
+Para hacer todo esto es CMake.
 
 ## Documentación oficial
 
-En [cmake.org](https://cmake.org) podemos encontrar la ultima versión de Cmake así como la documentación oficial. En caso de duda, esta es la documentación que prevalece. Yo puedo haberlo entendido mal o equivocarme al escribirlo aquí. 
+En [cmake.org](https://cmake.org) podemos encontrar la ultima versión de CMake así como la documentación oficial. En caso de duda, esta es la documentación que prevalece. Yo puedo haberlo entendido mal o equivocarme al escribirlo aquí. 
 
-El problema que le veo a la documentación oficial de Cmake es que está solo en inglés y que no es muy amigable para alguien que empieza desde cero. 
+El problema que le veo a la documentación oficial de CMake es que está solo en inglés y que no es muy amigable para alguien que empieza desde cero. 
 
-## Uso básico de Cmake
+## Uso básico de CMake
 
 Tenemos un único archivo para nuestro proyecto.
 
@@ -59,9 +59,9 @@ Si lo queremos ejecutar:
 
 Todo muy básico y sencillo, ¿no? 
 
-Pues empecemos a usar Cmake desde aquí.
+Pues empecemos a usar CMake desde aquí.
 
-En la carpeta del proyecto creamos un archivo llamado `CMakeLists.txt`. Siempre se debe llamar así para que Cmake lo encuentre.
+En la carpeta del proyecto creamos un archivo llamado `CMakeLists.txt`. Siempre se debe llamar así para que CMake lo encuentre.
 
 ~~~ bash
 ~/proyectoTest
@@ -73,7 +73,7 @@ En la carpeta del proyecto creamos un archivo llamado `CMakeLists.txt`. Siempre 
 Dentro de este archivo `CMakeLists.txt` escribimos lo siguiente:
 
 ~~~ bash
-# Versión mínima de Cmake que se debe usar en este proyecto
+# Versión mínima de CMake que se debe usar en este proyecto
 cmake_minimum_required(VERSION 3.10)
 
 # El nombre que queramos dar al proyecto. Aqui elegimos 'Tutorial'.
@@ -83,13 +83,13 @@ project(Tutorial)
 add_executable(Tutorial main.cpp)
 ~~~
 
-Listo, ya tenemos nuestra primera configuración de Cmake hecha. Para compilar el proyecto, solo tenemos que ejecutar lo siguente en la terminal:
+Listo, ya tenemos nuestra primera configuración de CMake hecha. Para compilar el proyecto, solo tenemos que ejecutar lo siguente en la terminal:
 
 ~~~ bash
 ~/proyectoTest$ cmake -H. -Bbuild
 ~~~
 
-Cmake crea el directorio donde "construirá" el proyecto llamado `build` y dentro crea los archivos de configuración del proyecto.
+CMake crea el directorio donde "construirá" el proyecto llamado `build` y dentro crea los archivos de configuración del proyecto.
 
 Después toca compilar el proyecto:
 
@@ -103,4 +103,4 @@ Ya está. Podemos comprobar que dentro de `build` se ha creado el ejecutable 'Tu
 ~/proyectoTest$ ./build/Tutorial
 ~~~
 
-Esto es lo más básico con lo que podemos empezar a usar Cmake. Si tenéis alguna duda dejad un comentario y tan pronto como me sea posible os intentaré respoder.
+Esto es lo más básico con lo que podemos empezar a usar CMake. Si tenéis alguna duda dejad un comentario y tan pronto como me sea posible os intentaré respoder.

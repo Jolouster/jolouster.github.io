@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Controlar la versión del proyecto con CMake
-meta: Introducción a CMake 2. Cómo controlar la versión del proyecto desde la configuración de CMake
+title: Tutorial CMake 2 - Uso de variables. Controlar la versión del proyecto
+meta: Cómo controlar la versión del proyecto desde la configuración de CMake
 category: Programación
 author: Jonathan López
 tag: C++
