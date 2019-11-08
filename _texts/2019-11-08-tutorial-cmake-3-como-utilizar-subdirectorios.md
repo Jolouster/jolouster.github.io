@@ -7,11 +7,11 @@ author: Jonathan López
 tag: C++
 ---
 
-En el tutorial de CMake que estamos utilizando el proyecto de ejemplo que estábamos usando es muy muy simple. Todo el código está en una misma carpeta o directorio. Esto no es realista en un proyecto real. 
+En el tutorial de CMake estamos utilizando un proyecto de ejemplo que es muy muy simple. Todo el código está en una misma carpeta o directorio. Esto no es realista en un proyecto real. 
 
 Lo habitual es tener el código divido en módulos o carpetas de código. 
 
-Vamos a desarrollar el proyecto que estámos usando de ejemplo para incluir subcarpetas.
+Vamos a desarrollar el proyecto que estámos usando de ejemplo para incluir *subcarpetas*.
 
 <pre><font color="#8F9D6A"><b>jonathan@jarvis</b></font>:<font color="#7587A6"><b>~/Proyectos/proyectoTest</b></font>$ tree -L 3
 <font color="#7587A6"><b>.</b></font>
@@ -85,8 +85,8 @@ cmake_minimum_required(VERSION 3.10.2)
 project(Tutorial)
 
 # Setting variables
-set (testRasp_VERSION_MAJOR 1)
-set (testRasp_VERSION_MINOR 0)
+set (Tutorial_VERSION_MAJOR 1)
+set (Tutorial_VERSION_MINOR 0)
 
 # -- AÑADIMOS LOS SUBDIRECTORIOS
 add_subdirectory(${PROJECT_SOURCE_DIR}/modules/hello )
@@ -104,7 +104,9 @@ target_link_libraries(Tutorial HelloLib GoodbyeLib)
 
 Siguiente paso: configurar los módulos.
 
-Tanto el módulo `hello` como `goodbye` se configuran exactamente igual. Como los vamos a utilizar como librerías debemos configurarlos de la siguiente manera:
+Cada subcarpeta ***debe*** contener un archivo CMakeLists.txt donde configuraremos cómo se debe compilar cada módulo.
+
+Tanto el módulo `hello` como `goodbye` se configuran exactamente igual en este ejemplo. Como los vamos a utilizar como librerías debemos configurarlos de la siguiente manera:
 
 ~/proyectoTest/modules/hello/CMakeLists.txt contiene únicamente:
 
@@ -228,7 +230,7 @@ namespace jlu
 
 int main()
 {
-    std::cout << "Versión del programa: " << testRasp_VERSION_MAJOR << "." << testRasp_VERSION_MINOR << std::endl;
+    std::cout << "Versión del programa: " << Tutorial_VERSION_MAJOR << "." << Tutorial_VERSION_MINOR << std::endl;
     jlu::Hello h;
     jlu::Goodbye a;
     h.printHello("Jonathan");
