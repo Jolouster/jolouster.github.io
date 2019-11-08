@@ -19,7 +19,6 @@ Vamos a desarrollar el proyecto que estámos usando de ejemplo para incluir subc
 ├── CMakeLists.txt
 ├── config.h
 ├── config.h.in
-├── <font color="#7587A6"><b>lib</b></font>
 ├── main.cpp
 └── <font color="#7587A6"><b>modules</b></font>
     ├── <font color="#7587A6"><b>goodbye</b></font>
@@ -114,7 +113,7 @@ Tanto el módulo `hello` como `goodbye` se configuran exactamente igual. Como lo
 add_library (HelloLib helloclass.cpp)
 ~~~
 
-~/proyectoTest/modules/hello/CMakeLists.txt contiene únicamente:
+~/proyectoTest/modules/goodbye/CMakeLists.txt contiene únicamente:
 
 ~~~ cmake
 # Creamos la librería Goodbye
@@ -192,7 +191,7 @@ namespace jlu
             void printBye(const std::string name);
     };
 } // namespace jlu
-#endi
+#endif
 ~~~
 
 ~/proyectoTest/modules/goodbye/goodbyeclass.cpp
