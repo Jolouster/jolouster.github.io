@@ -28,6 +28,7 @@ Este es el código que empleo para las pruebas:
 
 En este archivo tengo la declaración de la clase que se encarga de hacer "el trabajo duro" en cada *hilo* o *thread*.
 
+~~~cpp
     #ifndef MYWORKER_H
     #define MYWORKER_H
 
@@ -62,11 +63,13 @@ En este archivo tengo la declaración de la clase que se encarga de hacer "el tr
 
 
     #endif // MYWORKER_H
+~~~
 
 ### Archivo *myWorker.cpp*
 
 La implementación de la clase.
 
+~~~cpp
     #include "myworker.h"
 
     jlu::myWorker::myWorker()
@@ -132,11 +135,13 @@ La implementación de la clase.
         // Carga datos desde la base de datos.
         // Carga datos de archivos de configuración etc.
     }
+~~~
 
 ### Archivo *manageWorkers.h*
 
 En este archivo tengo la declaración de la clase encargada de iniciar, controlar los *"threads"* y detenerlos cuando el usuario diga.
 
+~~~cpp
     #ifndef MANAGEWORKERS_H
     #define MANAGEWORKERS_H
 
@@ -165,11 +170,13 @@ En este archivo tengo la declaración de la clase encargada de iniciar, controla
         };
     }
     #endif // MANAGEWORKERS_H
+~~~
 
 ### Archivo *manageWorkers.cpp*
 
 Su implementación.
 
+~~~cpp
     #include "manageworkers.h"
 
     jlu::manageWorkers::manageWorkers (QObject * parent) : QObject (parent)
@@ -225,6 +232,7 @@ Su implementación.
 
         qDebug() << " Se han eliminado todos los hilos";
     }
+~~~
 
 Aquí es donde se produce el control de los hilos. Su inicio,  gestión y eliminación si así lo deseamos.
 
@@ -240,6 +248,7 @@ Si añadimos esta conexión, no funcionará. De echo el programa se romperá. Tr
 
 El siguiente archivo es donde pruebo el funcionamiento del codigo anterior. Simulo en envío las señales de inicio y paro que podría lanzar el usuario pulsando un botón de la interfaz gráfica.
 
+~~~cpp
     #include <QCoreApplication>
     #include <QTimer>
     #include <QObject>
@@ -288,6 +297,7 @@ El siguiente archivo es donde pruebo el funcionamiento del codigo anterior. Simu
 
         return a.exec();
     }
+~~~
 
 ¿Pensáis que se podría hacer de alguna otra manera más simple o mejor? ¿Qué opináis de este ejemplo? ¿Tenéis alguna duda? 
 
