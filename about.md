@@ -42,16 +42,17 @@ Mi herramienta de trabajo es el ordenador, me encanta y es con lo que me gano el
 
 ### Por qué uso un sitio web estático
 
-- Porque no necesito más. 
+- Porque no necesito más.
 - Quiero algo simple y minimalista, como el estilo de vida que quiero para mi.
-- Me quiero centrar en el contenido, no en la administración del blog. 
+- Me quiero centrar en el contenido, no en la administración del blog.
 - Escribo pensando que la información que aporto es práctica y útil. Que me lea quien quiera. Lo demás me da igual.
+- Respeto la privacidad de mis lectores.
 
 ### Conclusión
 
-Soy un ingeniero técnico de teleco, que se dedica a programar. Con mucha curiosidad y que siempre quiere seguir aprendiendo y mejorar la forma de vivir y hacer las cosas. Si tu también quieres y buscas lo mismo, eres bienvenido a realizar el camino conmigo.
+Soy un ingeniero técnico de teleco, que se dedica a programar. Con mucha curiosidad, que siempre quiere seguir aprendiendo, mejorar la forma de vivir y hacer las cosas. Si quieres y buscas lo mismo, eres bienvenido a realizar el camino conmigo.
 
-Y ya que le dedico tiempo a investigar, recopilar, leer y aprender... lo que saque de ello lo quiero publicar aquí para beneficio del que tenga a bien leerme. 
+Y ya que le dedico tiempo a investigar, recopilar, leer y aprender... lo que saque de ello lo quiero publicar aquí para beneficio del que tenga a bien leerme.
 
 ***¡Un saludo a todos!***
 
