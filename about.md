@@ -17,11 +17,13 @@ Soy aficionado a la astronomía. De tanto en tanto me voy al culo del mundo, don
 
 También me gusta dibujar. Creo que soy un pésimo dibujante, pero me relaja y entretiene.
 
+La escritura manual con estilográfica es otra de mis aficiones.
+
 Me gustaría hacer muchas más cosas pero el tiempo es limitado y hay que elegir en qué invertir el tiempo. 
 
 ### Lo que me preocupa e interesa
 
-*Me preocupa no avanzar, quedarme estancado*. Siempre quiero mejorar mi forma de hacer las cosas y ser más eficiente. Pero tampoco me obsesiono, ni quiero ser el mejor ni soy competitivo, simplemente quiero mejorar e intento compararme sólo conmigo mismo. 
+*Me preocupa no avanzar, quedarme estancado*. Siempre quiero mejorar mi forma de hacer las cosas y ser más eficiente. Pero tampoco me obsesiono, ni quiero ser el mejor, ni soy competitivo, ni quiero compararme con nadie. 
 
 Por eso *me interesa el sistema de organización personal GTD*. Sigo intentando convertirlo en un hábito sólido en mi vida. ¿Por qué? Porque creo que es una herramienta muy buena, un medio eficaz, que puedo usar para alcanzar mis metas y objetivos.
 
@@ -49,10 +51,10 @@ Mi herramienta de trabajo es el ordenador, me encanta y es con lo que me gano el
 
 ### Conclusión
 
-Soy un ingeniero técnico de teleco, que se dedica a programar. Con mucha curiosidad y que siempre quiere seguir aprendiendo y mejorar la forma de vivir y hacer las cosas. Si tu también quieres y buscas lo mismo, eres bienvenido a realizar el camino conmigo.
+Soy un ingeniero técnico de teleco, que se dedica a programar. Con mucha curiosidad y que siempre quiere seguir aprendiendo y mejorar la forma de vivir y hacer las cosas. Si tu también buscas lo mismo, eres bienvenido a realizar el camino conmigo.
 
 Y ya que le dedico tiempo a investigar, recopilar, leer y aprender... lo que saque de ello lo quiero publicar aquí para beneficio del que tenga a bien leerme. 
 
 ***¡Un saludo a todos!***
 
-PD. Para cualquier comentario o consulta mi correo electónico es `jolouster @ gmail . com`
+PD. Para cualquier comentario o consulta mi correo electrónico es `jolouster @ gmail . com`
