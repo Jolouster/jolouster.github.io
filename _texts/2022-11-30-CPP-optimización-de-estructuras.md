@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "CPP optimización de estructuras"
-author: 'Jonathan López \<jolouster@gmail.com\>'
+author: 'Jonathan López
 category: Programación
 date: noviembre 30, 2022
 meta: 'El orden de los elementos en una estructura importa'
