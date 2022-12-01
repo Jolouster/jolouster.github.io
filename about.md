@@ -7,40 +7,36 @@ title: Sobre mi
 
 ### A qué me dedico.
 
-Trabajo de programador. En el día a día uso C++ con el framework [Qt](https://www.qt.io/), para las aplicaciones web uso JavaScript, PHP5, HTML5 y CSS3. Como motor de bases de datos uso PostgreSQL. Me gusta trabajar sobre todo con C++.
+Trabajo de programador. En el día a día uso C++, para las aplicaciones web uso JavaScript, PHP, HTML5 y CSS3. Como motores de bases de datos uso PostgreSQL y Sqlite3, de cuando en cuando también uso MySql. Me gusta trabajar sobre todo con C++.
 
 He sido autónomo como desarrollador web en el pasado. Actualmente trabajo para [Eliwell Iberica](http://www.eliwell.es/) en el departamento de software donde desarrollamos nuevos productos.
 
-### Algunas de mis aficiones
-
-Soy aficionado a la astronomía. De tanto en tanto me voy al culo del mundo, donde no haya contaminación lumínica, y me paso la noche mirando al cielo con mi querido telescopio.
-
-También me gusta dibujar. Creo que soy un pésimo dibujante, pero me relaja y entretiene.
-
-La escritura manual con estilográfica es otra de mis aficiones.
-
-Me gustaría hacer muchas más cosas pero el tiempo es limitado y hay que elegir en qué invertir el tiempo. 
-
 ### Lo que me preocupa e interesa
 
-*Me preocupa no avanzar, quedarme estancado*. Siempre quiero mejorar mi forma de hacer las cosas y ser más eficiente. Pero tampoco me obsesiono, ni quiero ser el mejor, ni soy competitivo, ni quiero compararme con nadie. 
+*Me preocupa no avanzar, quedarme estancado*. Siempre quiero mejorar mi forma de vivir, hacer las cosas y ser más eficiente. Pero tampoco me obsesiono. Ni quiero ser el mejor ni lo necesito. Tampoco quiero compararme con nadie. 
 
-Por eso *me interesa el sistema de organización personal GTD*. Sigo intentando convertirlo en un hábito sólido en mi vida. ¿Por qué? Porque creo que es una herramienta muy buena, un medio eficaz, que puedo usar para alcanzar mis metas y objetivos.
+Por eso, entre otras cosas, *me interesa el sistema de organización personal GTD*. Sigo intentando convertirlo en un hábito sólido en mi vida. 
 
-*Me interesa formarme.* Por dos razones:
+¿Por qué?
 
-1. Aspiro a ser un mejor profesional, cada día un poco mejor de lo que era ayer. Me falta mucho por aprender pero me gustaría convertir mis códigos en obras de arte eficientes y fiables. 
-2. Como soy curioso por naturaleza, para sentirme realizado y aprender.
+- Porque creo que es una herramienta muy buena, un medio eficaz, que puedo usar para alcanzar mis metas y objetivos.
+- Mañana quizás esté muerto, por lo que quiero asegurarme de aprovechar al máximo el tiempo que tengo hoy. Quiero cumplir con mis obligaciones, pero también pasar tiempo con las personas que quiero y haciendo lo que me gusta.
+
+*Me interesa formarme.* Por varias razones:
+
+1. Aspiro a ser un mejor profesional, cada día un poco mejor de lo que era ayer. Me gustaría convertir mis códigos en obras de arte eficientes y fiables. 
+2. Como soy curioso por naturaleza, para sentirme satisfecho, realizado y aprender.
+3. Para seguir creciendo como persona es algo que hay que hacer durante toda la vida.
 
 Mi herramienta de trabajo es el ordenador, me encanta y es con lo que me gano el pan. De ahí que quiera aprender a usarlo lo mejor posible. ¿Conocéis a algún "buen profesional" que no sepa usar *bien* sus herramientas del día a día? Yo no.
 
 ### Por qué he creado este blog
 
 - **Para ayudarte a ti**. Aquí publicaré todo aquello que a mí personalmente me ha ayudado y espero te sirva a ti también. 
-- Para mejorar como programador. Si sé o aprendo a expresar de forma fácil lo que aprendo sobre programación, me aseguro de haberlo asimilado y comprendido yo bien.
+- Para mejorar como programador. Si sé o aprendo a expresar de forma fácil lo que aprendo, me aseguro de haberlo asimilado y comprendido yo bien.
 - Devuelvo el favor. A mi me han ayudado mucho los artículos, tutoriales, manuales y vídeos que la gente ha publicado en Internet. Me han ayudado a formarme y mejorar. Yo también quiero contribuir.
 - Para recopilar toda la información sintetizada que me ha ayudado.
-- Para crear mi marca personal. No solo quiero decir que se de algo, sino también demostrarlo.
+- Para crear mi marca personal.
 
 ### Por qué uso un sitio web estático
 
