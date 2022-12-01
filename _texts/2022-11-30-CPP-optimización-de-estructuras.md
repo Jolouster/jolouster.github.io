@@ -7,8 +7,6 @@ meta: El orden de los elementos en una estructura importa
 tag: C++
 ---
 
-# CPP optimización de estructuras
-
 Ejemplo:
 
 ```cpp
